@@ -1,0 +1,137 @@
+======================================================================
+РАЗДЕЛЬНЫЙ АНАЛИЗ DŒ (Древнеисландский)
+Корень: *dōjan* (как готский τaujan, др.-англ. don, MHG tuon)
+======================================================================
+
+ЧАСТОТНОСТЬ ФОРМ DŒ:
+  dyr            : 22 (100.0%)
+
+
+КЛАСТЕРЫ:
+
+Кластер 0 (4):
+  ob                  : 3
+  sbj                 : 3
+  að                  : 2
+  ljúka               : 2
+  er                  : 2
+  annar               : 2
+  spe                 : 2
+  móna                : 1
+  goðr                : 1
+  góðræði             : 1
+  munu                : 1
+  mæna                : 1
+  dúra                : 1
+  runi                : 1
+  rún                 : 1
+
+Кластер 1 (2):
+  sbj                 : 3
+  hann                : 3
+  sag                 : 2
+  mat                 : 2
+  kveða               : 2
+  einhver             : 1
+  pos                 : 1
+  sveinn              : 1
+  ganga               : 1
+  til                 : 1
+  lúka                : 1
+  upp                 : 1
+  ob                  : 1
+
+Кластер 2 (7):
+  sbj                 : 13
+  mat                 : 11
+  sag                 : 7
+  og                  : 6
+  að                  : 3
+  ganga               : 3
+  hann                : 2
+  vera                : 2
+  pos                 : 2
+  smc                 : 1
+  ljúka               : 1
+  prd                 : 1
+  ser                 : 1
+  standa              : 1
+  loc                 : 1
+
+Кластер 3 (2):
+  mat                 : 3
+  ser                 : 2
+  sbj                 : 2
+  pos                 : 2
+  hinn                : 2
+  knýja               : 1
+  ob                  : 1
+  himnaríki           : 1
+  og                  : 1
+  tmp                 : 1
+  þá                  : 1
+  fyrir               : 1
+  sag                 : 1
+  en                  : 1
+
+Кластер 4 (4):
+  sbj                 : 8
+  sub                 : 6
+  og                  : 3
+  sturla              : 2
+  ob                  : 2
+  rel                 : 2
+  er                  : 2
+  til                 : 2
+  koma                : 1
+  út                  : 1
+  sjá                 : 1
+  setja               : 1
+  stigi               : 1
+  við                 : 1
+  hún                 : 1
+
+Кластер 5 (3):
+  pos                 : 6
+  ob                  : 2
+  vor                 : 2
+  fyrir               : 2
+  sub                 : 1
+  sbj                 : 1
+  ég                  : 1
+  byrgja              : 1
+  hjarta              : 1
+  prd                 : 1
+  heilagur            : 1
+  hlutur              : 1
+  himneskur           : 1
+  verk                : 1
+  himnaríki           : 1
+
+
+======================================================================
+ВСЕ КОНТЕКСТЫ DŒ:
+======================================================================
+
+[   1] dyr             ...móna goðr góðræði munu mæna [dyr] dúra runi rún flytja fljóta...
+[   2] dyr             ...guð vera senda að ljúka [dyr] PRP að boða OB maría...
+[   2] dyr             ...SUB SBJ ég byrgja OB [dyr] POS hjarta POS vor fyrir...
+[   2] dyr             ...PRD heilagur hlutur himneskur verk [dyr] POS himnaríki háttur POS óorðinn...
+[   2] dyr             ...SER MAT SBJ knýja OB [dyr] POS himnaríki SER MAT og...
+[   2] dyr             ...vor dominus ljúka upp OB [dyr] POS miskunn POS sinn fyrir...
+[   2] dyr             ...hann að SMC ljúka PRD [dyr] SER MAT og SBJ standa...
+[   2] dyr             ...upp ljúka OB POS himinríki [dyr] ADV er SUB SBJ hann...
+[   5] dyr             ...TMP þá SBJ hinn fyrir [dyr] POS hinn SAG MAT en...
+[   5] dyr             ...SUB SBJ sturla koma út [dyr] og SUB SBJ sjá OB...
+[   5] dyr             ...vera LOC þar SBJ vígás [dyr] og MAT SBJ margur POS...
+[   5] dyr             ...MAT ríða SBJ sturla að [dyr] SAG MAT og talast SBJ...
+[   5] dyr             ...SBJ setja OB stigi við [dyr] hún REL er SUB SBJ...
+[   5] dyr             ...SBJ sturla ríða til sá [dyr] REL er SUB SBJ til...
+[  11] dyr             ...SAG MAT og SBJ drepa [dyr] SAG MAT SBJ fár POS...
+[  11] dyr             ...SBJ annar OB vo fyrir [dyr] SPE er SPE SBJ annar...
+[  13] dyr             ...SAG MAT opna vera SBJ [dyr] SAG MAT ganga SBJ vali...
+[  13] dyr             ...maður og SUB SBJ drepa [dyr] og SUB SBJ biðja INF...
+[  14] dyr             ...SBJ ganga DIR heim að [dyr] SAG MAT og heyra SBJ...
+[  14] dyr             ...einhver POS sveinn ganga til [dyr] SAG MAT SBJ hann kveða...
+[  14] dyr             ...SBJ hann lúka upp OB [dyr] SAG MAT SBJ hann kveða...
+[  14] dyr             ...MAT og SBJ ganga til [dyr] SAG MAT SBJ hann heilsa...
