@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+  <head>
+    <meta-information>
+      <project-name/>
+      <transcription-name/>
+      <referenced-file url=""/>
+      <ud-meta-information>
+        <ud-information attribute-name="corpus-code">T</ud-information>
+        <ud-information attribute-name="page">026</ud-information>
+        <ud-information attribute-name="line">20</ud-information>
+        <ud-information attribute-name="writer">alpha</ud-information>
+      </ud-meta-information>
+      <comment/>
+      <transcription-convention/>
+    </meta-information>
+    <speakertable>
+      <speaker id="SPK0">
+        <abbreviation>X</abbreviation>
+        <sex value="m"/>
+        <languages-used/>
+        <l1/>
+        <l2/>
+        <ud-speaker-information>
+</ud-speaker-information>
+        <comment/>
+      </speaker>
+    </speakertable>
+  </head>
+  <basic-body>
+    <common-timeline>
+      <tli id="T0"/>
+      <tli id="T7"/>
+      <tli id="T1"/>
+      <tli id="T2"/>
+      <tli id="T3"/>
+      <tli id="T9"/>
+    </common-timeline>
+    <tier id="TIE0" category="LAT" type="a" display-name="LAT">
+      <event start="T0" end="T7">&amp;</event>
+      <event start="T1" end="T2">zacharias</event>
+      <event start="T2" end="T3">turbatus</event>
+      <event start="T3" end="T9">est</event>
+    </tier>
+    <tier id="TIE1" category="words" type="t" display-name="ahd">
+      <event start="T0" end="T7">thanan</event>
+      <event start="T7" end="T1">tho</event>
+      <event start="T1" end="T2">zacharias</event>
+      <event start="T2" end="T3">uuard</event>
+      <event start="T3" end="T9">gitruobit</event>
+    </tier>
+    <tier id="TIE2" category="align" type="a" display-name="align">
+      <event start="T2" end="T3">=L4</event>
+      <event start="T3" end="T9">=L3</event>
+    </tier>
+    <tier id="TIE3" category="pos" type="a" display-name="pos">
+      <event start="T0" end="T7">ADV</event>
+      <event start="T7" end="T1">ADV</event>
+      <event start="T1" end="T2">N</event>
+      <event start="T2" end="T3">VAUX</event>
+      <event start="T3" end="T9">VN</event>
+    </tier>
+    <tier id="TIE4" category="cat" type="a" display-name="cat">
+      <event start="T1" end="T2">NP</event>
+      <event start="T2" end="T9">VP</event>
+    </tier>
+    <tier id="TIE10" category="clause-status" type="a" display-name="clause-status">
+      <event start="T0" end="T9">MAINDECL</event>
+    </tier>
+    <tier id="TIE5" category="gf" type="a" display-name="gf">
+      <event start="T0" end="T7">ADVTEMP</event>
+      <event start="T7" end="T1">ADVTEMP</event>
+      <event start="T1" end="T2">SUBJ</event>
+      <event start="T2" end="T3">VFIN</event>
+      <event start="T3" end="T9">PARTPF</event>
+    </tier>
+    <tier id="TIE6" category="syl_no" type="a" display-name="syl_no">
+      <event start="T0" end="T7">2</event>
+      <event start="T7" end="T1">1</event>
+      <event start="T1" end="T2">4</event>
+      <event start="T2" end="T3">1</event>
+      <event start="T3" end="T9">3</event>
+    </tier>
+    <tier id="TIE7" category="givenness" type="a" display-name="givenness">
+      <event start="T1" end="T2">GIV</event>
+    </tier>
+    <tier id="TIE8" category="top-comm" type="a" display-name="top-comm"/>
+    <tier id="TIE13" category="aboutness" type="a" display-name="aboutness">
+      <event start="T1" end="T2"/>
+    </tier>
+    <tier id="TIE14" category="position" type="a" display-name="position">
+      <event start="T1" end="T2"/>
+    </tier>
+    <tier id="TIE15" category="topic-marker" type="a" display-name="topic-marker"/>
+    <tier id="TIE16" category="definiteness" type="a" display-name="definiteness">
+      <event start="T1" end="T2">DEF</event>
+    </tier>
+    <tier id="TIE9" category="foc-bg" type="a" display-name="foc-bg"/>
+    <tier id="TIE17" category="foc-marker" type="a" display-name="foc-marker"/>
+    <tier id="TIE18" category="context" type="a" display-name="context">
+      <event start="T0" end="T9">Eintritt eines neuen psychischen Zustands</event>
+    </tier>
+    <tier id="TIE11" category="comment" type="a" display-name="comment">
+      <event start="T0" end="T9">Umstellung von Partizip und Finitum</event>
+    </tier>
+    <tier id="TIE12" category="bibl" type="d" display-name="bibl">
+      <event start="T0" end="T9">T 26, 20 Alpha Lc 1</event>
+    </tier>
+  </basic-body>
+</basic-transcription>

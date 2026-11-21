@@ -1,0 +1,145 @@
+tuon (делать) - Tatian Corpus Analysis Results
+======================================================================
+
+
+Noise
+----------------------------------------------------------------------
+1. [tuot] inti hér tuot íz
+   File: T_083__25_beta.xml
+2. [tuontan] her gisihit den fater / tuontan
+   File: T_136__29-30_gamma.xml
+3. [tuont] sie tuont ungilihhaz ira annuzzi
+   File: T_068__24_beta.xml
+4. [tuon] lusta Iúuares fater uuoll& Ir tuon
+   File: T_218__20_epsilon.xml
+5. [tuot] uuaz tuot her thanne then uuînzurilon
+   File: T_203__32_alpha-bar.xml
+6. [tuo] uuaz thin zesuua tuo
+   File: T_067__05_beta.xml
+7. [tuonteru] Inti uuirdit gigeban thiotu / tuonteru sinan uuahsmon
+   File: T_204__13-14_alpha-bar.xml
+8. [tuot] tuot riuuva inti giloub& / themo
+   File: T_054__10_beta.xml
+9. [tuon] fon mir selbemo . niouuiht tuon
+   File: T_216__29_epsilon.xml
+10. [tuo] ther thie habe muos tuo selbsama
+   File: T_046__23_alpha.xml
+11. [tuomit] ther ist ther suohhit Inti tuomit
+   File: T_219__12_epsilon.xml
+12. [tuos] uuen tuos thu thih selbon
+   File: T_219__25_epsilon.xml
+13. [tuo] truhtin heilan / tuo mih
+   File: T_120__06-07_beta.xml
+14. [tuot] tuot rechto sino stiga
+   File: T_044__07_alpha.xml
+15. [tuon] uuas sculun uuir tuon
+   File: T_046__19a_alpha.xml
+16. [tuon] Inti ih tuon íuuvih uuesan / manno fiscara
+   File: T_054__20-21_beta.xml
+17. [tati] sun ziu tati thu uns so
+   File: T_043__01_alpha.xml
+18. [tuome] thaz her uueralt tuome
+   File: T_197__31_alpha-bar.xml
+19. [tuom] mîn tuom / ist thanne uuâr
+   File: T_214__22-23_alpha-bar.xml
+20. [tuon] uuemo tuon ih gilihhaz / thiz cunni
+   File: T_101__25-26_beta.xml
+21. [tuonte] azun / thaz brót thanca tuonte truhtine
+   File: T_121__03-04_beta.xml
+22. [tuot] thaz her sliumo tuot Iro giriht
+   File: T_201__19_alpha-bar.xml
+23. [tuon] uuelihhero giuuelti / ih thisu tuon
+   File: T_202__13-14_alpha-bar.xml
+24. [tuo] oba her thanne uuahsmon tuo
+   File: T_163__27_gamma.xml
+25. [tuome] sósó ír in tuome tuoment
+   File: T_071__18_beta.xml
+26. [tuoment] sósó ír in tuome tuoment
+   File: T_071__18_beta.xml
+27. [tuos] In uuelihhero giuuelti tuos thû thisu
+   File: T_201__29_alpha-bar.xml
+28. [tuot] uuanta her sinaz folc heilaz tuot / fon Iro sunton
+   File: T_034__24-25_alpha.xml
+29. [tuos] thanne thú tuos elimosinam
+   File: T_066__29_beta.xml
+30. [tuon] uuelihhero / giuuelti ih thisu tuon
+   File: T_202__01-02_alpha-bar.xml
+
+Total: 30 contexts
+
+
+Cluster 0
+----------------------------------------------------------------------
+1. [tuot] thie sunta tuot
+   File: T_217__17_epsilon.xml
+2. [tuont] thaz tuont suntige mán
+   File: T_066__05_beta.xml
+3. [tuot] só tuot ír ín selbsama
+   File: T_065__17_beta.xml
+4. [tuon] thaz íu man tuon
+   File: T_073__17a_beta.xml
+5. [tuont] eno ni+ tuont thaz heidane man
+   File: T_066__12_beta.xml
+6. [tuot] Inti tuot ín uuola
+   File: T_066__14_beta.xml
+7. [tuont] thie íu uuola tuont
+   File: T_066__03_beta.xml
+8. [tuot] Inti oba ír then uuola tuot
+   File: T_066__02_beta.xml
+9. [tuon] thaz íu man tuon
+   File: T_065__16a_beta.xml
+10. [tuon] thaz íh íu thaz tuon mugi
+   File: T_097__13_beta.xml
+11. [tuont] eno ni+ tuont thaz thie firnfollun mán
+   File: T_066__01_beta.xml
+
+Total: 11 contexts
+
+
+Cluster 1
+----------------------------------------------------------------------
+1. [tatin] thaz sie riuua / tatin
+   File: T_081__09-10_beta.xml
+2. [tuot] thanne tuot Ir uuerc abrahames
+   File: T_218__02_epsilon.xml
+3. [tuomon] bithiu sint sie íuuare tuomon
+   File: T_098__12_beta.xml
+4. [tatun] so uuelihhu sie tatun
+   File: T_102__31_beta.xml
+5. [tuot] ubil boum / tuot uilan uuahsmon
+   File: T_074__03-04_beta.xml
+6. [tuot] thiu tuot ir ìn
+   File: T_073__18_beta.xml
+7. [tuot] tház ir iuuar reht ni+ tuot / fora mannon
+   File: T_066__24-25_beta.xml
+8. [tatin] thaz sie tatin after / giuuonu euuu furi
+   File: T_038__01-02_alpha.xml
+9. [tuot] tuot riuua
+   File: T_044__01_alpha.xml
+10. [tatun] bithiu uuanta sie ni+ tatun / riuua
+   File: T_102__09-10_beta.xml
+11. [tuo] daz ih thiu thuruh tuo
+   File: T_139__03_gamma.xml
+12. [tatin] thaz sie inan ougazorohtan ni+ tatin
+   File: T_107__06_beta.xml
+13. [tuot] ziu tuot ir thaz
+   File: T_105__20_beta.xml
+14. [tatun] uuanta sie riuua tatun
+   File: T_093__05_beta.xml
+15. [tuot] thaz tuot ir
+   File: T_217__28_epsilon.xml
+16. [tatin] uúaz sie tatin / themo heilante
+   File: T_107__02-03_beta.xml
+17. [tuot] giuuelih boum thiethar ni tuot / guotan uuahsmon / ist
+   File: T_074__15-17_beta.xml
+18. [tuomu] oba ih tuomu
+   File: T_214__22_alpha-bar.xml
+19. [tuot] / thanne íu gisezzit sí tuot Ir
+   File: T_046__27-28_alpha.xml
+20. [tuot] oba ir riuua ni tuot
+   File: T_163__07_gamma.xml
+21. [tuot] gihórit / Inti sie ni+ tuot
+   File: T_075__12-13_beta.xml
+
+Total: 21 contexts
+

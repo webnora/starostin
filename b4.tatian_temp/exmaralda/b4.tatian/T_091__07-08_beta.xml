@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+  <head>
+    <meta-information>
+      <project-name/>
+      <transcription-name/>
+      <referenced-file url=""/>
+      <ud-meta-information>
+        <ud-information attribute-name="corpus-code">T</ud-information>
+        <ud-information attribute-name="page">091</ud-information>
+        <ud-information attribute-name="line">07-08</ud-information>
+        <ud-information attribute-name="writer">beta</ud-information>
+      </ud-meta-information>
+      <comment/>
+      <transcription-convention/>
+    </meta-information>
+    <speakertable>
+      <speaker id="SPK0">
+        <abbreviation>X</abbreviation>
+        <sex value="m"/>
+        <languages-used/>
+        <l1/>
+        <l2/>
+        <ud-speaker-information>
+</ud-speaker-information>
+        <comment/>
+      </speaker>
+    </speakertable>
+  </head>
+  <basic-body>
+    <common-timeline>
+      <tli id="T0"/>
+      <tli id="T1"/>
+      <tli id="T2"/>
+      <tli id="T3"/>
+      <tli id="T4"/>
+    </common-timeline>
+    <tier id="TIE0" category="LAT" type="a" display-name="LAT">
+      <event start="T0" end="T1">&amp;</event>
+      <event start="T1" end="T2">factum</event>
+      <event start="T2" end="T3">est</event>
+    </tier>
+    <tier id="TIE1" category="words" type="t" display-name="ahd">
+      <event start="T0" end="T1"/>
+      <event start="T1" end="T2"/>
+      <event start="T2" end="T3">uuard</event>
+      <event start="T3" end="T4">tho</event>
+    </tier>
+    <tier id="TIE2" category="align" type="a" display-name="align"/>
+    <tier id="TIE3" category="pos" type="a" display-name="pos">
+      <event start="T2" end="T3">VAUX</event>
+      <event start="T3" end="T4">ADV</event>
+    </tier>
+    <tier id="TIE4" category="cat" type="a" display-name="cat">
+      <event start="T2" end="T3">VP</event>
+    </tier>
+    <tier id="TIE10" category="clause-status" type="a" display-name="clause-status">
+      <event start="T0" end="T2"/>
+      <event start="T2" end="T4">MAINDECL</event>
+    </tier>
+    <tier id="TIE5" category="gf" type="a" display-name="gf">
+      <event start="T2" end="T3">VFIN</event>
+      <event start="T3" end="T4">ADVTEMP</event>
+    </tier>
+    <tier id="TIE6" category="syl_no" type="a" display-name="syl_no">
+      <event start="T2" end="T3">1</event>
+      <event start="T3" end="T4">1</event>
+    </tier>
+    <tier id="TIE7" category="givenness" type="a" display-name="givenness"/>
+    <tier id="TIE8" category="top-comm" type="a" display-name="top-comm"/>
+    <tier id="TIE13" category="aboutness" type="a" display-name="aboutness"/>
+    <tier id="TIE14" category="position" type="a" display-name="position"/>
+    <tier id="TIE15" category="topic-marker" type="a" display-name="topic-marker"/>
+    <tier id="TIE16" category="definiteness" type="a" display-name="definiteness"/>
+    <tier id="TIE9" category="foc-bg" type="a" display-name="foc-bg"/>
+    <tier id="TIE17" category="foc-marker" type="a" display-name="foc-marker"/>
+    <tier id="TIE18" category="context" type="a" display-name="context">
+      <event start="T0" end="T4">Situationswechsel (neue Situation)</event>
+    </tier>
+    <tier id="TIE11" category="comment" type="a" display-name="comment">
+      <event start="T0" end="T4">V1 gegen Original</event>
+    </tier>
+    <tier id="TIE12" category="bibl" type="d" display-name="bibl">
+      <event start="T0" end="T4">T 91, 7-8 Beta Mt 9</event>
+    </tier>
+  </basic-body>
+</basic-transcription>

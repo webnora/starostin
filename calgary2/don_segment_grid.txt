@@ -1,0 +1,24 @@
+OE dōn clustering - segment contexts grid search
+==============================================
+
+Contexts (one per hit in # segment): 256
+Observed forms:
+  dyde: 62
+  do: 53
+  gedon: 29
+  deð: 29
+  doð: 22
+  don: 20
+  dydon: 19
+  dydest: 16
+  dest: 2
+  doþ: 2
+  deþ: 1
+  didon: 1
+
+Tested min_df: [1, 2, 3]
+Tested min_cluster_size: [2, 3, 5, 8, 10]
+Tested min_samples: [None, 1, 2, 3]
+
+BEST TFIDF: min_df=1 mcs=5 ms=1 | clusters=2 noise=58 (0.227)
+BEST PPMI: min_df=2 mcs=5 ms=1 | clusters=2 noise=14 (0.055)

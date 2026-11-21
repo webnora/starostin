@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+  <head>
+    <meta-information>
+      <project-name/>
+      <transcription-name/>
+      <referenced-file url=""/>
+      <ud-meta-information>
+        <ud-information attribute-name="corpus-code">T</ud-information>
+        <ud-information attribute-name="page">075</ud-information>
+        <ud-information attribute-name="line">21-22</ud-information>
+        <ud-information attribute-name="writer">beta</ud-information>
+      </ud-meta-information>
+      <comment/>
+      <transcription-convention/>
+    </meta-information>
+    <speakertable>
+      <speaker id="SPK0">
+        <abbreviation>X</abbreviation>
+        <sex value="m"/>
+        <languages-used/>
+        <l1/>
+        <l2/>
+        <ud-speaker-information>
+</ud-speaker-information>
+        <comment/>
+      </speaker>
+    </speakertable>
+  </head>
+  <basic-body>
+    <common-timeline>
+      <tli id="T0"/>
+      <tli id="T5"/>
+      <tli id="T1"/>
+      <tli id="T2"/>
+      <tli id="T11"/>
+      <tli id="T3"/>
+      <tli id="T4"/>
+      <tli id="T6"/>
+      <tli id="T7"/>
+      <tli id="T8"/>
+      <tli id="T9"/>
+      <tli id="T10"/>
+    </common-timeline>
+    <tier id="TIE0" category="LAT" type="a" display-name="LAT">
+      <event start="T0" end="T5">Et</event>
+      <event start="T5" end="T1">factum</event>
+      <event start="T1" end="T2">est</event>
+      <event start="T2" end="T3">cum</event>
+      <event start="T3" end="T4">consummass&amp;</event>
+      <event start="T6" end="T7">ihesus</event>
+      <event start="T7" end="T8">/</event>
+      <event start="T8" end="T9">uerba</event>
+      <event start="T9" end="T10">haec</event>
+    </tier>
+    <tier id="TIE1" category="words" type="t" display-name="ahd">
+      <event start="T0" end="T5"/>
+      <event start="T5" end="T1"/>
+      <event start="T1" end="T2"/>
+      <event start="T2" end="T11">mit</event>
+      <event start="T11" end="T3">diu</event>
+      <event start="T3" end="T4">gientota</event>
+      <event start="T4" end="T6">ther</event>
+      <event start="T6" end="T7">heilant</event>
+      <event start="T7" end="T8">/</event>
+      <event start="T8" end="T9">thisiu</event>
+      <event start="T9" end="T10">uuort</event>
+    </tier>
+    <tier id="TIE2" category="align" type="a" display-name="align"/>
+    <tier id="TIE3" category="pos" type="a" display-name="pos">
+      <event start="T2" end="T3">CONJ</event>
+      <event start="T3" end="T4">V</event>
+      <event start="T4" end="T6">PRONDEM</event>
+      <event start="T6" end="T7">N</event>
+      <event start="T8" end="T9">PRONDEM</event>
+      <event start="T9" end="T10">N</event>
+    </tier>
+    <tier id="TIE4" category="cat" type="a" display-name="cat">
+      <event start="T3" end="T4">VP</event>
+      <event start="T4" end="T7">NP</event>
+      <event start="T8" end="T10">NP</event>
+    </tier>
+    <tier id="TIE10" category="clause-status" type="a" display-name="clause-status">
+      <event start="T2" end="T10">SUBTEMP</event>
+    </tier>
+    <tier id="TIE5" category="gf" type="a" display-name="gf">
+      <event start="T3" end="T4">VFIN</event>
+      <event start="T4" end="T7">SUBJ</event>
+      <event start="T8" end="T10">DO</event>
+    </tier>
+    <tier id="TIE6" category="syl_no" type="a" display-name="syl_no">
+      <event start="T2" end="T3">2</event>
+      <event start="T3" end="T4">4</event>
+      <event start="T4" end="T7">3</event>
+      <event start="T8" end="T10">3</event>
+    </tier>
+    <tier id="TIE7" category="givenness" type="a" display-name="givenness">
+      <event start="T4" end="T7">GIV</event>
+      <event start="T8" end="T10">GIV</event>
+    </tier>
+    <tier id="TIE8" category="top-comm" type="a" display-name="top-comm"/>
+    <tier id="TIE13" category="aboutness" type="a" display-name="aboutness"/>
+    <tier id="TIE14" category="position" type="a" display-name="position"/>
+    <tier id="TIE15" category="topic-marker" type="a" display-name="topic-marker"/>
+    <tier id="TIE16" category="definiteness" type="a" display-name="definiteness">
+      <event start="T4" end="T7">DEF</event>
+      <event start="T8" end="T9">DEF</event>
+    </tier>
+    <tier id="TIE9" category="foc-bg" type="a" display-name="foc-bg"/>
+    <tier id="TIE17" category="foc-marker" type="a" display-name="foc-marker"/>
+    <tier id="TIE18" category="context" type="a" display-name="context">
+      <event start="T0" end="T10">Wiederaufnahme; Situationswechsel (Beendigung der Predigt)</event>
+    </tier>
+    <tier id="TIE11" category="comment" type="a" display-name="comment">
+      <event start="T0" end="T10">'et factum est' bleibt unübersetzt, Einbruch einer neuen Situation auf cum=mit diu verknappt</event>
+    </tier>
+    <tier id="TIE12" category="bibl" type="d" display-name="bibl">
+      <event start="T0" end="T10">T 75, 21-22 Beta Mt 7</event>
+    </tier>
+  </basic-body>
+</basic-transcription>

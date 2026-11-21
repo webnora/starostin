@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+  <head>
+    <meta-information>
+      <project-name/>
+      <transcription-name/>
+      <referenced-file url=""/>
+      <ud-meta-information>
+        <ud-information attribute-name="corpus-code">T</ud-information>
+        <ud-information attribute-name="page">134</ud-information>
+        <ud-information attribute-name="line">24-26</ud-information>
+        <ud-information attribute-name="writer">gamma</ud-information>
+      </ud-meta-information>
+      <comment/>
+      <transcription-convention/>
+    </meta-information>
+    <speakertable>
+      <speaker id="SPK0">
+        <abbreviation>X</abbreviation>
+        <sex value="m"/>
+        <languages-used/>
+        <l1/>
+        <l2/>
+        <ud-speaker-information>
+</ud-speaker-information>
+        <comment/>
+      </speaker>
+    </speakertable>
+  </head>
+  <basic-body>
+    <common-timeline>
+      <tli id="T5"/>
+      <tli id="T1"/>
+      <tli id="T2"/>
+      <tli id="T3"/>
+      <tli id="T0"/>
+      <tli id="T4"/>
+      <tli id="T6"/>
+      <tli id="T7"/>
+      <tli id="T8"/>
+    </common-timeline>
+    <tier id="TIE0" category="LAT" type="a" display-name="LAT">
+      <event start="T5" end="T1">que</event>
+      <event start="T1" end="T2">/</event>
+      <event start="T2" end="T0">cognominatur</event>
+      <event start="T4" end="T6">hebraice</event>
+      <event start="T6" end="T7">/</event>
+      <event start="T7" end="T8">bethsaida</event>
+    </tier>
+    <tier id="TIE1" category="words" type="t" display-name="ahd">
+      <event start="T5" end="T1">ther</event>
+      <event start="T1" end="T2">/</event>
+      <event start="T2" end="T3">ginennit</event>
+      <event start="T3" end="T0">ist</event>
+      <event start="T0" end="T4">in</event>
+      <event start="T4" end="T6">ebreiscon</event>
+      <event start="T6" end="T7">/</event>
+      <event start="T7" end="T8">bethsaida</event>
+    </tier>
+    <tier id="TIE2" category="align" type="a" display-name="align"/>
+    <tier id="TIE3" category="pos" type="a" display-name="pos">
+      <event start="T5" end="T1">PRONREL</event>
+      <event start="T2" end="T3">VN</event>
+      <event start="T3" end="T0">VAUX</event>
+      <event start="T0" end="T4">P</event>
+      <event start="T4" end="T6">A</event>
+      <event start="T7" end="T8">N</event>
+    </tier>
+    <tier id="TIE4" category="cat" type="a" display-name="cat">
+      <event start="T5" end="T1">NP</event>
+      <event start="T2" end="T0">VP</event>
+      <event start="T0" end="T6">PP</event>
+      <event start="T7" end="T8">NP</event>
+    </tier>
+    <tier id="TIE10" category="clause-status" type="a" display-name="clause-status">
+      <event start="T5" end="T8">REL</event>
+    </tier>
+    <tier id="TIE5" category="gf" type="a" display-name="gf">
+      <event start="T5" end="T1">SUBJ</event>
+      <event start="T2" end="T3">PARTPF</event>
+      <event start="T3" end="T0">VFIN</event>
+      <event start="T0" end="T6">ADVLOC</event>
+      <event start="T7" end="T8">PRDNOM</event>
+    </tier>
+    <tier id="TIE6" category="syl_no" type="a" display-name="syl_no">
+      <event start="T5" end="T1">1</event>
+      <event start="T2" end="T3">3</event>
+      <event start="T3" end="T0">1</event>
+      <event start="T0" end="T6">5</event>
+      <event start="T7" end="T8">3</event>
+    </tier>
+    <tier id="TIE7" category="givenness" type="a" display-name="givenness"/>
+    <tier id="TIE8" category="top-comm" type="a" display-name="top-comm"/>
+    <tier id="TIE13" category="aboutness" type="a" display-name="aboutness"/>
+    <tier id="TIE14" category="position" type="a" display-name="position"/>
+    <tier id="TIE15" category="topic-marker" type="a" display-name="topic-marker"/>
+    <tier id="TIE16" category="definiteness" type="a" display-name="definiteness"/>
+    <tier id="TIE9" category="foc-bg" type="a" display-name="foc-bg"/>
+    <tier id="TIE17" category="foc-marker" type="a" display-name="foc-marker"/>
+    <tier id="TIE18" category="context" type="a" display-name="context"/>
+    <tier id="TIE11" category="comment" type="a" display-name="comment">
+      <event start="T5" end="T8">(que mit e caudata); VSpäter nach Passivauflösung</event>
+    </tier>
+    <tier id="TIE12" category="bibl" type="d" display-name="bibl">
+      <event start="T5" end="T8">T 134, 24 - 26 Gamma Io 5, 2</event>
+    </tier>
+  </basic-body>
+</basic-transcription>

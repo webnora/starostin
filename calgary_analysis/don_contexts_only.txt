@@ -1,0 +1,473 @@
+don (do/make) - Old English Calgary Corpus Analysis Results
+======================================================================
+
+
+Noise
+----------------------------------------------------------------------
+ðe ic mana fela dogrum dyde ne þu mec deofol seþeah
+   File: resignation.txt
+halige men lifiendum gode lofsang doð secan þa hamas þe ðu
+   File: soul and body i.txt
+bið dryhten þam dome ac do wyt unc sculon wit þonne
+   File: soul and body i.txt
+wordum ond þa weorc ne doð bið him eorðwela ofer ece
+   File: guthlac a b.txt
+þurh neþinge wunne worulde swa doð þa þe ne bimurnað monnes
+   File: guthlac a b.txt
+ondswarode guðlac in mid godes doð efne swa gif eow dryhten
+   File: guthlac a b.txt
+clemens deus se onsended summo de throno and clara uoce þa
+   File: a summons to prayer.txt
+swa he on ðam beame dyde ac hie þonne forhtiað ond
+   File: the dream of the rood.txt
+muntes gestigan swa se ealda dyde elias iu is to hicganne
+   File: the seasons for fasting.txt
+costian durre þonne he crist dyde wereda wulderfrean womma leasne ne
+   File: the seasons for fasting.txt
+bitere onbolgen and bote ne deð ac þa ealdere wrohte niwað
+   File: the seasons for fasting.txt
+hi onwendest swa man wrigels deð and hi beoð to worulde
+   File: allParis.txt
+ealra goda þe he þe dyde he þinum miltsade eallum and
+   File: allParis.txt
+teonan þolian he his wegas dyde wise and cuðe moyse þam
+   File: allParis.txt
+urum wommum wyrhtum woldest us don ne urum unryhte gyldan forðon
+   File: allParis.txt
+fiðru winda he his englas deð gastas and his frome ðegnas
+   File: allParis.txt
+þa gecorenan wesan and alysde do me þin swyðre hand swylce
+   File: allParis.txt
+and he sona ure feond gedon fracuþe to nawihte nelle ic
+   File: allParis.txt
+wunað symble ece he gemynd dyde wundra mildheort he is and
+   File: allParis.txt
+þam godum þe he me dyde ic her calic befangen and
+   File: allParis.txt
+stefn beorht gehyred on muðe dyde gedefe dryhtnes swyðre and me
+   File: allParis.txt
+georne min sawul flore geneahhige do me þinum wordum wel gecwician
+   File: allParis.txt
+drihten lustum lufode ic lange dyde ic þa on mode metegade
+   File: allParis.txt
+sohte and on þinre sped do þinum agenum esne swylce mycel
+   File: allParis.txt
+wynne tid man eac wel do drihten ure ne ðu dole
+   File: allParis.txt
+ic ðine bebodu bealde healde do þine ansyne esne þinum leohte
+   File: allParis.txt
+drihten si gebletsad þe ne dyde us on hearde sealde þam
+   File: allParis.txt
+ofer ealle þonne drihten wyle gedon he of sione ahweorfe hefige
+   File: allParis.txt
+mycel to worulde he wundur dyde weorþlic ana se heofon worhte
+   File: allParis.txt
+oft cweðað wutun hi idle gedon hi heora eard geceosan þu
+   File: allParis.txt
+torncwidum neode serwað swa oft doð and him aspidas wyrmas under
+   File: allParis.txt
+forweorðeð ic gearuwe ongeat gode deð drihten domas þe on dagum
+   File: allParis.txt
+on worulde his wise domas deð gedefe þe her deorce teonan
+   File: allParis.txt
+israhele eac his domas ne dyde he swa eldran cynne he
+   File: allParis.txt
+cedrum ciið deor and neat do sniome nifle cynn be naman
+   File: allParis.txt
+on campum and cuðlice heora don on isene bendas hio dom
+   File: allParis.txt
+and me tredað feondas mine doð ealne fram forðon monige synd
+   File: allParis.txt
+to wealdendgode ðe me wel dyde he þa of heofenum hider
+   File: allParis.txt
+ylde nemnað seo hi deafe deð dytteð hyre earan heo nele
+   File: allParis.txt
+seceð and ðu hi drihten dest deope to bysmre nafast þu
+   File: allParis.txt
+þe me feale syndun ne do hy to deadan þy hi
+   File: allParis.txt
+and and alysede leofe þine do me þin seo swyðre hand
+   File: allParis.txt
+and he sona ure fynd gedon fracoþe to nahte gehyr halig
+   File: allParis.txt
+him halig folc to drihtne doð eowre heortan hige hale and
+   File: allParis.txt
+unlyt wyrceað on and woh doð and eow beswicað sylfe oftast
+   File: allParis.txt
+soðe dome swa man seolfor deð þonne man hit aseoðeð swyðe
+   File: allParis.txt
+georne habbað hu mycel he dyde minre sawle þuruh his mihte
+   File: allParis.txt
+si gebletsad þe he ne dyde nymðe he mine bene bealde
+   File: allParis.txt
+his naman swylce neode heriað doð seftne and rihtne þe he
+   File: allParis.txt
+dema halig se þe eardian deð anes modes and on hiora
+   File: allParis.txt
+oncerreð nyle he þa him don unbryce forþam sculon ealle drincan
+   File: allParis.txt
+hiora nolde hi to flymum gedon he þa manige fram him
+   File: allParis.txt
+syndon on leodstefnum loðes bearnum do him nu swa ðu dydest
+   File: allParis.txt
+ðe þurh ealne elne cleopade do þines scealces sawle bliðe forðon
+   File: allParis.txt
+mine sawle swyþe geneahhe ne doð him for awiht egsan drihtnes
+   File: allParis.txt
+geteoh hrore meaht hysse þinum do þinre þeowan sunu drihten halne
+   File: allParis.txt
+þinre þeowan sunu drihten halne do gedefe mid me drihten tacen
+   File: allParis.txt
+heora winterrim for wiht ne doð morgen gewiteð swa gemolsnad wyrt
+   File: allParis.txt
+þe þa ariman rihte cunne do us þa þine swiðran hand
+   File: allParis.txt
+acwealdon and ne gesawe drihten dyde swa he wolde ne iacobes
+   File: allParis.txt
+ðridde and of hiora eðele don ealle þeode hi naman drihtenes
+   File: allParis.txt
+cyðan ymb swa dygle wyrd do swa þe þynce fyrngidda frod
+   File: elene.txt
+hio þa selost ond deorlicost gedon meahte dugoðum to hroðer dryhtnes
+   File: elene.txt
+eorðcyninga burgagendra on his bridels don meare to midlum manigum sceall
+   File: elene.txt
+wurðlice wrec he on swa dyde gefera fus and forðgeorn feaht
+   File: the battle of maldon.txt
+guþe fremme swa ic gien dyde minum þeodne on þonc ic
+   File: allRiddles.txt
+woruldstrenga binom siþþan dyfde on dyde eft þonan sette on sunnan
+   File: allRiddles.txt
+nymðe we brucen þa bearn doð is to geþencanne þeoda gehwylcum
+   File: allRiddles.txt
+ongietan cuþe ond dryhtnes dolg don swa beages benne ne bene
+   File: allRiddles.txt
+wiht wordgaldra snytt hio symle deð fira gehw wisdome wundor me
+   File: allRiddles.txt
+ond dohtra þy heo swa dyde min heafod is homere geþuren
+   File: allRiddles.txt
+e byreð oþrum frea min de willum sinum heah ond hyht
+   File: allRiddles.txt
+hamelode sume ne wearð dreorlicre gedon on þison earde syþþan dene
+   File: the death of alfred.txt
+synfulle soð ne oncneowan hit gedon scingelacum se scyna stan for
+   File: andreas.txt
+getihhad land ond leode swa dyde lareow þin cyneþrym ahof þam
+   File: andreas.txt
+þy weorðe þe no wom dyde his lichoma leahtra firena mid
+   File: christ a b c.txt
+cwiþað ac hy to sið doð helpe ðonne giman nele weoruda
+   File: christ a b c.txt
+meotodes mihtum man ne cuðon don ne dreogan ac him drihtnes
+   File: genesis.txt
+wite habban ealra morðra swa deð monna gehwilc þe wið his
+   File: genesis.txt
+ures rices he þeah riht gedon he us fyre to botme
+   File: genesis.txt
+we hit habban ne moton gedon hie his hyldo hie onwendon
+   File: genesis.txt
+þe him wif wordum heo dyde hit þeah þurh holdne hyge
+   File: genesis.txt
+breostum forþon her synt butu gedon ge bearn heofonrice sculon leode
+   File: genesis.txt
+hreowan þonne hit me heortan deð hire þa adam andswarode gif
+   File: genesis.txt
+hearde and sare drihta bearnum doð gieta swa of þam brad
+   File: genesis.txt
+torhte wille gewlo on geweald don rume rice þa se rinc
+   File: genesis.txt
+waldend usser an swa he dyde lengran lifes se us þas
+   File: genesis.txt
+hwilce healfe þu wille hwyrft don cyrran mid ceape nu ic
+   File: genesis.txt
+wolde yfel and ondlean ðe dyde to sarran ac heo on
+   File: genesis.txt
+nu mago ebrea þa men don gif hie swa swiðe synna
+   File: genesis.txt
+þancast abraham þa andswarode ne dyde ic for facne ne for
+   File: genesis.txt
+eard alefan to swa he dyde ecne onwald ah him alles
+   File: christ and satan.txt
+alefan eðel to swa he dyde swa gnornedon godes andsacan hate
+   File: christ and satan.txt
+ecne and trumne swa he dyde þa ic gongan gefregn gingran
+   File: christ and satan.txt
+halwende man her wepe and do drihtne to willan bið se
+   File: the judgment day ii.txt
+eadignesse swa nan oðer na deð monað maran miltse drihtnes and
+   File: the mologium.txt
+hyldo ða he him of dyde isernbyrnan helm of hafelan sealde
+   File: beowulf.txt
+forgylde swa he nu gyt dyde beowulf maþelode bearn ecþeowes we
+   File: beowulf.txt
+cynnes swa he nu git deð forþan bið andgit selest ferhðes
+   File: beowulf.txt
+sunu sweoloðe banfatu ond on don eame on eaxle ides gnornode
+   File: beowulf.txt
+in geardas swa nu gyt deð þa ðe syngales sele bewitiað
+   File: beowulf.txt
+hildeleoman billa selest on bearm dyde mid eotenum ecge cuðe swylce
+   File: beowulf.txt
+mildum wordum swa sceal man don beo wið geatas geofena gemyndig
+   File: beowulf.txt
+feo leanige ealdgestreonum swa ic dyde wundnum golde gyf þu on
+   File: beowulf.txt
+getruwode mundgripe swa sceal man don þonne he guðe gegan þenceð
+   File: beowulf.txt
+gumena dryhten ðonne ic gyt dyde guðgeweorca ic beo gearo sona
+   File: beowulf.txt
+onfand eftsið eorla swa he dyde no he mid hearme of
+   File: beowulf.txt
+mec on innan unsynnigne dior gedon wolde manigra sumne hyt ne
+   File: beowulf.txt
+meara ond maðma swa sceal don nealles inwitnet oðrum bregdon dyrnum
+   File: beowulf.txt
+medobence micles wyrðne drihten wedera gedon wolde swyðe wendon he sleac
+   File: beowulf.txt
+him wyrmes wig for wiht dyde eafoð ond ellen forðon he
+   File: beowulf.txt
+godes leoht geceas eaferum swa deð eadig mon lond ond leodbyrig
+   File: beowulf.txt
+swa ic gio wið grendle dyde ac ic heaðufyres hates wene
+   File: beowulf.txt
+ofer floda genipu feorran drifað dyde him of healse hring gyldenne
+   File: beowulf.txt
+gehwylcum swa he nu gen deð þa ðam geongan grim ondswaru
+   File: beowulf.txt
+eald wordum he wel þunge do a duge deag þin gewyrhtu
+   File: precepts.txt
+wiht for þeah hi wom don ofer meotudes bibod monig sceal
+   File: precepts.txt
+gedwolan hweorfan israhela cyn unriht don wommas wyrcean weorc gode oft
+   File: daniel.txt
+deman nabochodonossor him on nyd dyde israela bearn ofer ealle lufen
+   File: daniel.txt
+in his breostlocan no daniel gedon mihte he wolde metodes mihte
+   File: daniel.txt
+efndon unrihtdom swa hyra aldor dyde mane gemenged mode gefrecnod fremde
+   File: daniel.txt
+him becwom yfel endelean unriht dyde þry on þeodnes byrig eorlas
+   File: daniel.txt
+on worulde eac ðon wom dyde user yldran for oferhygdum bebodo
+   File: daniel.txt
+tacen godes no þy sel dyde ac þam oferhygd gesceod wearð
+   File: daniel.txt
+asette metod swa he manegum deð þara þe þurh oferhyd up
+   File: daniel.txt
+and isernum and in susl don his mod wite migtigra wite
+   File: daniel.txt
+lufan seocan scoldan libera me de sanguinibus befreo me an ferðe
+   File: psalm 50.txt
+mid elne onbryrde swa he deð anra gehwylcne herbuendra þe hyne
+   File: judith.txt
+halege menn gode lifgendum lofsong doð secan þa hamas þe þu
+   File: soul and body ii.txt
+reþe bið dryhten dome ac do wit unc þonne he unc
+   File: soul and body ii.txt
+hlimman iscaldne hwilum ylfete song dyde ic me to gomene ganetes
+   File: the seafarer.txt
+honda seo heoroswealwe wynsum weorþeð deþ he wyrplas on fedeþ swa
+   File: a mothers fears.txt
+geornor bigonge þonne he gen dyde lufige mid lacum þone þe
+   File: juliana.txt
+ealdor gif we yfles noht gedon habbaþ ne durran we siþþan
+   File: juliana.txt
+yflum yrmþum swa heo mec dyde ða londmearce neah ond to
+   File: juliana.txt
+oþþe hwilc ungedefe þing on gedon bið on dry oððe on
+   File: allMetrical.txt
+wyrte butan glappan anon and do þonne on and drype þonne
+   File: allMetrical.txt
+underðeodde synt ðonne eall sie gedon þonne nime man uncuþ and
+   File: allMetrical.txt
+hit on his sweoran and do man swa þry dagas him
+   File: allMetrical.txt
+tearige and wile locian niþer do him þis to eoforþrote cassuc
+   File: allMetrical.txt
+leaf consolde ofgeot mid ealaþ do to sing þis gealdor ofer
+   File: allMetrical.txt
+mid his bridle hafað butu gedon ealle gemanode and eac getogen
+   File: allMeters.txt
+nimð eall hio fint swa doð wudufuglas þeah hi wel sien
+   File: allMeters.txt
+willan went on gecynde swa deð eac sio sunne þonne hio
+   File: allMeters.txt
+ne hwearfige swa swa hweol deð on hire selfre forðon hio
+   File: allMeters.txt
+utan becerred hio sceal eft don hio dyde and eac wesan
+   File: allMeters.txt
+hio sceal eft don hio dyde and eac wesan hio bið
+   File: allMeters.txt
+witena ðeah hine se dysega do to cyninge hu gesceadwis scealc
+   File: allMeters.txt
+swylcra fela weoruldwelena hi wel doð geornfulle men geara gehwilce ac
+   File: allMeters.txt
+þe swiðor þe hio symle dyde hi þeah eorðlices auht ne
+   File: allMeters.txt
+scell scriðeð ymbutan dogora gehwilce dyde lange swa þu ðioda god
+   File: allMeters.txt
+utan ymb swa swa eal deð rineswifte rodor recene ymbscriðeð dogora
+   File: allMeters.txt
+drihtnes meahtum þisne middangeard swa deð monnes saul hweole gelicost ymbe
+   File: allMeters.txt
+breostum þonne hi hi beorhtran gedon ðing þe on þys andweardan
+   File: allMeters.txt
+onwendan monna mid þeah hio gedon meahte ða lichoman lange þrage
+   File: allMeters.txt
+eac sume wenað sio sunne do ac se wena nis wuhte
+   File: allMeters.txt
+beforan sunnan swa hi symle doð middelnihtum wið þone monan foran
+   File: allMeters.txt
+tungl þeowdomes aðroten weorðe domes deð siððan ymbe moncynnes fruma swa
+   File: allMeters.txt
+eorðan ealla gesceafta hyrað ðinre doð on heofonum swa some mode
+   File: allMeters.txt
+sond willað ren forswelgan swa deð ricra nu grundleas gitsung gilpes
+   File: allMeters.txt
+we oft se anwald ne deð awiht godes gif se wel
+   File: allMeters.txt
+gewesan ymbe hira wisdom wyrs deð se ðe liehð oððe soðes
+   File: solomon and saturn.txt
+ðurh deop gesceaft geomrende gast deð nu gena swa me geunne
+   File: solomon and saturn.txt
+hio abiteð iren mid ome deð usic swa saturnus ac forhwon
+   File: solomon and saturn.txt
+modsefan mildne hlaford anne ne don swa saturnus ac forhwam winneð
+   File: solomon and saturn.txt
+wearh hangian ongildan he facen dyde manna cynne meotod ana wat
+   File: maxims ii.txt
+ealra goda þe he ðe dyde qui propitiatur omnibus iniquitatibus tuis
+   File: allFragments.txt
+ðine adle ealle qui redemit de interitu uitam tuam qui sanat
+   File: allFragments.txt
+to georne þe ic geong dyde and me uncuðe for ðinre
+   File: allFragments.txt
+þurh þin leofe eripe me de inimicis meis deus meus et
+   File: allFragments.txt
+þu me gife eripe me de operantibus iniquitatem et de uiris
+   File: allFragments.txt
+me de operantibus iniquitatem et de uiris sanguinum salua me genere
+   File: allFragments.txt
+seculi ut reddam uota mea de die in diem swa ic
+   File: allFragments.txt
+
+Total: 173 contexts
+
+
+Cluster 0
+----------------------------------------------------------------------
+þe ge him to dare gedon motan ac ge hine gesundne
+   File: guthlac a b.txt
+on ðas eorðan ealle locað deð hi for his egsan ealle
+   File: allParis.txt
+ealle þe ehtend him gestodan do us hale nu halig drihten
+   File: allParis.txt
+iu adrife fram dome ne do þu swa þu of urum
+   File: allParis.txt
+on eorðan earm bigenga ne do þu me dyrne þine þa
+   File: allParis.txt
+ac he him hraþe gyldeð do þu drihten wel þam þe
+   File: allParis.txt
+þe geomur cleopode drihten drihten do þu nu ða þu mines
+   File: allParis.txt
+swylce deorum dauide þu ne do þu andwlitan ut oncyrre þines
+   File: allParis.txt
+gehet dauide swa he him dyde syþþan he weorðlicne gesette þe
+   File: allParis.txt
+drihten ariseð he on eorðan do ealle hale þe he mildheorte
+   File: allParis.txt
+wuldre cum and us hale do her on eorðan gehweorf us
+   File: allParis.txt
+þe he him to duguþe gedon swa him offa on on
+   File: the battle of maldon.txt
+cunnan ðu us to duguðum gedon wille him þa ondswarode ece
+   File: andreas.txt
+laðes ma þurh daroða gedrep gedon motan þa þe heardra hearma
+   File: andreas.txt
+þe ic to duguðum ðe gedon siððan ðu feasceaft feorran come
+   File: genesis.txt
+arleas heap yfeles on wenan dest þu la dreogest þu nu
+   File: the judgment day ii.txt
+sorge to hwon hine dryhten gedon wille ne biþ him to
+   File: the seafarer.txt
+þonne he þa sealfe on do ge ge sing galdor on
+   File: allMetrical.txt
+gealdor he þa sealfe on do wið dweorh man sceal niman
+   File: allMetrical.txt
+þe tohwan þe þin drihten gedon wille þu lengc ne most
+   File: an exhortation to christian living.txt
+in die qui inuocauerimus te do drihten cyng halne and us
+   File: allFragments.txt
+illos usque in aeternum hal do þin folc halig drihten and
+   File: allFragments.txt
+drihten nu and us ricene do fultum and us feondum ahrede
+   File: allFragments.txt
+
+Total: 23 contexts
+
+
+Cluster 1
+----------------------------------------------------------------------
+ne ge me laþes wiht gedon motun ic eom dryhtnes þeow
+   File: guthlac a b.txt
+and þu min drihten god do me þine nu mycle mildheortnesse
+   File: allParis.txt
+blisse eala þu dryhten god do me halne eala þu dryhten
+   File: allParis.txt
+halne eala þu dryhten min do us gesunde gebletsad is se
+   File: allParis.txt
+ic eom þin hold scealc do ðu halne me forðon ic
+   File: allParis.txt
+geneahhe ic cleopode to ðe do me cuðlice halne heahcyning heofona
+   File: allParis.txt
+myclan mildheortnesse and þinum domum do me halne me syndon eahtend
+   File: allParis.txt
+me deore alys for þinre do me spedlice and cuðlice cwicne
+   File: allParis.txt
+þine mihtig drihten þinum domum do me cwicne ic manige geseah
+   File: allParis.txt
+þinre gesihðe symble þearfe þinre do spedlice ðu me generige niða
+   File: allParis.txt
+handa on nu and domlice gedon weorðe forðon ic þine bebodu
+   File: allParis.txt
+ic þinre her wilnade drihten do me symble ic þine elne
+   File: allParis.txt
+hycge to ðe helpe gelyfe do me wegas wise ic wite
+   File: allParis.txt
+naman þines neodweorðunge drihten usser do me halne ic on ðinum
+   File: allParis.txt
+ðu sylfa gesyhst ic swa dyde þu eart god mihtig drihten
+   File: allParis.txt
+ne his milde mod me dyde fremde miltsa us mihtig drihten
+   File: allParis.txt
+gecoste toweorp þu þa ðeoda do me halne god forþon hreoh
+   File: allParis.txt
+from egsan swa he oft dyde eala þu reccend ond þu
+   File: christ a b c.txt
+nergend usser bilwit his bearn dyde wiste forworhte þa he wlite
+   File: genesis.txt
+tiber cyninge engla huru cuð dyde nergend usser þa he noe
+   File: genesis.txt
+ic eom geomorfrod drihten min do swa ic þe bidde her
+   File: genesis.txt
+feondscipe feor adrifen from duguðum doð swa ic hate ic eow
+   File: genesis.txt
+inne unwemme twa dohtor mine doð swa ic eow bidde ne
+   File: genesis.txt
+abraham arlice swa he oft dyde leofne mannan loth generede oðres
+   File: genesis.txt
+ece drihten swa he oft dyde nergend usser com nihtes self
+   File: genesis.txt
+etan unforhte swa he oft dyde hreðmanna na þu minne þearft
+   File: beowulf.txt
+syndon þeod ealgearo druncne dryhtguman doð swa ic bidde eode þa
+   File: beowulf.txt
+syngige swiðe genehhe and nihtes do swa ic ne sceolde hwile
+   File: a prayer.txt
+hiora dysig swa hit me don lysteð ne ic þe swa
+   File: allMeters.txt
+et semitas tuas edoce me do me wegas þine wise drihten
+   File: allFragments.txt
+
+Total: 30 contexts
+

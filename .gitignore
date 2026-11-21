@@ -1,0 +1,9 @@
+
+# archives and large binaries (added before sync)
+*.zip
+*.gz
+*.tar
+*.tgz
+*.7z
+*.rar
+checkpoints*/

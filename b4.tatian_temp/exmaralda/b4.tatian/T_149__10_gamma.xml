@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
+<basic-transcription>
+  <head>
+    <meta-information>
+      <project-name/>
+      <transcription-name/>
+      <referenced-file url=""/>
+      <ud-meta-information>
+        <ud-information attribute-name="corpus-code">T</ud-information>
+        <ud-information attribute-name="page">149</ud-information>
+        <ud-information attribute-name="line">10</ud-information>
+        <ud-information attribute-name="writer">gamma</ud-information>
+      </ud-meta-information>
+      <comment/>
+      <transcription-convention/>
+    </meta-information>
+    <speakertable>
+      <speaker id="SPK0">
+        <abbreviation>X</abbreviation>
+        <sex value="m"/>
+        <languages-used/>
+        <l1/>
+        <l2/>
+        <ud-speaker-information>
+</ud-speaker-information>
+        <comment/>
+      </speaker>
+    </speakertable>
+  </head>
+  <basic-body>
+    <common-timeline>
+      <tli id="T5"/>
+      <tli id="T1"/>
+      <tli id="T2"/>
+      <tli id="T3"/>
+      <tli id="T0"/>
+      <tli id="T4"/>
+      <tli id="T6"/>
+      <tli id="T8"/>
+      <tli id="T9"/>
+      <tli id="T10"/>
+      <tli id="T11"/>
+    </common-timeline>
+    <tier id="TIE0" category="LAT" type="a" display-name="LAT">
+      <event start="T1" end="T2">et</event>
+      <event start="T2" end="T3">exclamans</event>
+      <event start="T3" end="T0">&amp;</event>
+      <event start="T0" end="T4">discerpens</event>
+      <event start="T4" end="T6">/</event>
+      <event start="T6" end="T8">eum</event>
+      <event start="T8" end="T9">exiit</event>
+      <event start="T9" end="T10">ab</event>
+      <event start="T10" end="T11">eo</event>
+    </tier>
+    <tier id="TIE1" category="words" type="t" display-name="ahd">
+      <event start="T5" end="T1">her</event>
+      <event start="T1" end="T2">tho</event>
+      <event start="T2" end="T3">ruofenti</event>
+      <event start="T3" end="T0">inti</event>
+      <event start="T0" end="T4">slizanti</event>
+      <event start="T4" end="T6">/</event>
+      <event start="T6" end="T8">inan</event>
+      <event start="T8" end="T9">uzgieng</event>
+      <event start="T9" end="T10">fon</event>
+      <event start="T10" end="T11">imo</event>
+    </tier>
+    <tier id="TIE2" category="align" type="a" display-name="align"/>
+    <tier id="TIE3" category="pos" type="a" display-name="pos">
+      <event start="T5" end="T1">PRONPRS</event>
+      <event start="T1" end="T2">ADV</event>
+      <event start="T8" end="T9">V</event>
+      <event start="T9" end="T10">P</event>
+      <event start="T10" end="T11">PRONPRS</event>
+    </tier>
+    <tier id="TIE4" category="cat" type="a" display-name="cat">
+      <event start="T5" end="T1">NP</event>
+      <event start="T2" end="T8">CP</event>
+      <event start="T8" end="T9">VP</event>
+      <event start="T9" end="T11">PP</event>
+    </tier>
+    <tier id="TIE10" category="clause-status" type="a" display-name="clause-status">
+      <event start="T5" end="T11">MAINDECL</event>
+    </tier>
+    <tier id="TIE5" category="gf" type="a" display-name="gf">
+      <event start="T5" end="T1">SUBJ</event>
+      <event start="T1" end="T2">ADVTEMP</event>
+      <event start="T2" end="T8">ADVMOD</event>
+      <event start="T8" end="T9">VFIN</event>
+      <event start="T9" end="T11">PO</event>
+    </tier>
+    <tier id="TIE6" category="syl_no" type="a" display-name="syl_no">
+      <event start="T5" end="T1">1</event>
+      <event start="T1" end="T2">1</event>
+      <event start="T2" end="T8">10</event>
+      <event start="T8" end="T9">2</event>
+      <event start="T9" end="T11">3</event>
+    </tier>
+    <tier id="TIE7" category="givenness" type="a" display-name="givenness">
+      <event start="T5" end="T1">GIV</event>
+      <event start="T10" end="T11">GIV</event>
+    </tier>
+    <tier id="TIE8" category="top-comm" type="a" display-name="top-comm"/>
+    <tier id="TIE13" category="aboutness" type="a" display-name="aboutness"/>
+    <tier id="TIE14" category="position" type="a" display-name="position">
+      <event start="T5" end="T1"/>
+    </tier>
+    <tier id="TIE15" category="topic-marker" type="a" display-name="topic-marker"/>
+    <tier id="TIE16" category="definiteness" type="a" display-name="definiteness">
+      <event start="T5" end="T1">DEF</event>
+      <event start="T10" end="T11">DEF</event>
+    </tier>
+    <tier id="TIE9" category="foc-bg" type="a" display-name="foc-bg"/>
+    <tier id="TIE17" category="foc-marker" type="a" display-name="foc-marker"/>
+    <tier id="TIE18" category="context" type="a" display-name="context"/>
+    <tier id="TIE11" category="comment" type="a" display-name="comment">
+      <event start="T5" end="T11">thô; VSpäter im HS wie Vorlage; SP am Satzanfang ergänzt; uz</event>
+    </tier>
+    <tier id="TIE12" category="bibl" type="d" display-name="bibl">
+      <event start="T5" end="T11">T 149, 10 Gamma Mc 9, 26</event>
+    </tier>
+  </basic-body>
+</basic-transcription>

@@ -1,0 +1,96 @@
+======================================================================
+АНАЛИЗ GA-DEÞS (Готский)
+Существительное "дело, деяние, поступок"
+Методы: HDBSCAN + UMAP
+======================================================================
+
+ЧАСТОТНОСТЬ ФОРМ:
+  missadedins         : 6
+  missadedai          : 3
+  missadedim          : 3
+  missadeds           : 1
+
+
+НАЙДЕНО КЛАСТЕРОВ: 2
+
+======================================================================
+КЛАСТЕР 0
+======================================================================
+
+Размер: 6 (46.2%)
+
+ТОП-20 СЛОВ (TF-IDF):
+   1. afletiþ              : 0.2569
+   2. atta                 : 0.1617
+   3. izwar                : 0.1617
+   4. himinam              : 0.1403
+   5. sa                   : 0.1403
+   6. ize                  : 0.1400
+   7. izwaros              : 0.1394
+   8. jabai                : 0.1153
+   9. izwis                : 0.1054
+  10. þau                  : 0.0996
+  11. ei                   : 0.0969
+  12. ni                   : 0.0959
+  13. gabei                : 0.0942
+  14. in                   : 0.0935
+  15. mannam               : 0.0894
+  16. ca                   : 0.0894
+  17. mt                   : 0.0894
+  18. þiudom               : 0.0800
+  19. rom                  : 0.0800
+  20. jah                  : 0.0700
+
+ВСЕ КОНТЕКСТЫ КЛАСТЕРА:
+  [ 160] ...ca unte jabai afletiþ mannam [missadedins] ize afletiþ jah izwis atta...
+  [ 161] ...iþ jabai ni afletiþ mannam [missadedins] ize ni þau atta izwar...
+  [2123] ...sa in himinam afletai izwis [missadedins] izwaros...
+  [2124] ...sa in himinam afletiþ izwis [missadedins] izwaros...
+  [2395] ...nis sijai ak þizai ize [missadedai] ganists þiudom du in aljana...
+  [2396] ...rom a iþ jabai [missadeds] ize gabei fair au jah...
+
+======================================================================
+КЛАСТЕР 1
+======================================================================
+
+Размер: 5 (38.5%)
+
+ТОП-20 СЛОВ (TF-IDF):
+   1. jah                  : 0.2597
+   2. warþ                 : 0.2480
+   3. wisandans            : 0.1807
+   4. dauþans              : 0.1807
+   5. b                    : 0.1665
+   6. eph                  : 0.1547
+   7. izwaraim             : 0.1547
+   8. frawaurhtim          : 0.1547
+   9. izwis                : 0.1358
+  10. qino                 : 0.1240
+  11. uslutoþs             : 0.1240
+  12. uslutoda             : 0.1240
+  13. adam                 : 0.1240
+  14. a                    : 0.1118
+  15. iþ                   : 0.0990
+  16. ni                   : 0.0826
+  17. in                   : 0.0761
+  18. leikis               : 0.0568
+  19. fragibands           : 0.0568
+  20. imma                 : 0.0568
+
+ВСЕ КОНТЕКСТЫ КЛАСТЕРА:
+  [3241] ...a jah izwis wisandans dauþans [missadedim] jah frawaurhtim izwaraim...
+  [3242] ...b jah izwis wisandans dauþans [missadedim] jah frawaurhtim izwaraim...
+  [3743] ...b jah izwis dauþans wisandans [missadedim] jah unbimaita leikis izwaris miþgaqiwida...
+  [4017] ...uslutoþs iþ qino uslutoda in [missadedai] warþ...
+  [4018] ...uslutoþs iþ qino uslutoda in [missadedai] warþ...
+
+
+======================================================================
+ШУМ (не классифицировано)
+======================================================================
+
+Всего: 2 контекстов
+
+Случайные примеры:
+  ...gafriþonds sis ni rahnjands im [missadedins] ize jah lagjands in uns...
+  ...gafriþonds sis ni rahnjands im [missadedins] ize jah lagjands in uns...

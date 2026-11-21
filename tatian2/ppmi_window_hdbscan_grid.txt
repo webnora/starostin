@@ -1,0 +1,34 @@
+PPMI window features + HDBSCAN grid search (tuon contexts)
+========================================================
+
+Source: b4.tatian/zips/relANNIS.zip
+Contexts: 84
+Tested window sizes: [2, 4, 6]
+Tested min_cluster_size: [2, 3, 4, 5]
+Tested min_samples: [None, 1, 2, 3]
+
+Top 20 by (noise_frac asc, n_clusters desc, min_cluster desc):
+ 1. w=2 mcs=2 ms=3 | clusters=2 noise=2 (0.024) sizes=[2, 80]
+ 2. w=2 mcs=2 ms=1 | clusters=16 noise=30 (0.357) sizes=[2, 3, 2, 6, 2, 3, 3, 7, 3, 2, 8, 2, 3, 3, 3, 2]
+ 3. w=2 mcs=3 ms=1 | clusters=10 noise=35 (0.417) sizes=[3, 6, 3, 3, 7, 3, 10, 8, 3, 3]
+ 4. w=4 mcs=2 ms=1 | clusters=15 noise=38 (0.452) sizes=[2, 4, 2, 2, 2, 2, 7, 3, 2, 2, 3, 5, 2, 2, 6]
+ 5. w=2 mcs=5 ms=3 | clusters=2 noise=42 (0.500) sizes=[37, 5]
+ 6. w=6 mcs=2 ms=1 | clusters=13 noise=43 (0.512) sizes=[2, 2, 4, 2, 3, 2, 3, 5, 5, 3, 2, 6, 2]
+ 7. w=2 mcs=4 ms=1 | clusters=5 noise=44 (0.524) sizes=[6, 7, 10, 9, 8]
+ 8. w=2 mcs=5 ms=1 | clusters=5 noise=44 (0.524) sizes=[6, 7, 10, 9, 8]
+ 9. w=2 mcs=2 ms=None | clusters=9 noise=48 (0.571) sizes=[2, 3, 6, 3, 2, 3, 7, 3, 7]
+10. w=2 mcs=2 ms=2 | clusters=9 noise=48 (0.571) sizes=[2, 3, 6, 3, 2, 3, 7, 3, 7]
+11. w=6 mcs=3 ms=1 | clusters=7 noise=48 (0.571) sizes=[4, 3, 3, 7, 5, 9, 5]
+12. w=4 mcs=3 ms=1 | clusters=6 noise=50 (0.595) sizes=[4, 5, 7, 3, 10, 5]
+13. w=2 mcs=3 ms=2 | clusters=7 noise=52 (0.619) sizes=[3, 6, 3, 3, 7, 3, 7]
+14. w=4 mcs=4 ms=1 | clusters=5 noise=53 (0.631) sizes=[4, 5, 7, 10, 5]
+15. w=6 mcs=4 ms=1 | clusters=5 noise=54 (0.643) sizes=[4, 7, 5, 9, 5]
+16. w=6 mcs=2 ms=None | clusters=9 noise=57 (0.679) sizes=[3, 2, 3, 6, 2, 2, 3, 4, 2]
+17. w=6 mcs=2 ms=2 | clusters=9 noise=57 (0.679) sizes=[3, 2, 3, 6, 2, 2, 3, 4, 2]
+18. w=4 mcs=3 ms=2 | clusters=5 noise=57 (0.679) sizes=[3, 3, 6, 12, 3]
+19. w=4 mcs=5 ms=1 | clusters=4 noise=57 (0.679) sizes=[5, 7, 10, 5]
+20. w=6 mcs=5 ms=1 | clusters=4 noise=58 (0.690) sizes=[7, 5, 9, 5]
+
+BEST
+----
+w=2 mcs=2 ms=3 | clusters=2 noise=2 (0.024) sizes=[2, 80]

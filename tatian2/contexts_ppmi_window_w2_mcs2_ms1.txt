@@ -1,0 +1,264 @@
+tuon contexts (OHG Tatian, relANNIS) - PPMI (window features)
+============================================================
+
+Source: b4.tatian/zips/relANNIS.zip
+Total contexts matched: 84
+Window size: 2
+HDBSCAN min_cluster_size: 2
+HDBSCAN min_samples: 1
+Clusters: 16
+Noise: 30 (0.357)
+
+Noise
+-----
+1. thaz uuamba êrist Intuot
+   File: T_037__17_alpha.xml
+2. uuanta fon thir quimit tuomo
+   File: T_039__29_alpha.xml
+3. tuot rechto sino stiga
+   File: T_044__07_alpha.xml
+4. ther thie habe muos tuo selbsama
+   File: T_046__23_alpha.xml
+5. niouuiht mer / thanne íu gisezzit sí tuot Ir
+   File: T_046__27-28_alpha.xml
+6. Vuard thó gitan
+   File: T_054__32_beta.xml
+7. uuanta thú ni+ maht ein hár thes fahses / uuizaz gituon odo suarz
+   File: T_064__24_beta.xml
+8. só tuot ír ín selbsama
+   File: T_065__17_beta.xml
+9. thaz tuont suntige mán
+   File: T_066__05_beta.xml
+10. tház ir iuuar reht ni+ tuot / fora mannon
+   File: T_066__24-25_beta.xml
+11. uuaz thin zesuua tuo
+   File: T_067__05_beta.xml
+12. sie tuont ungilihhaz ira annuzzi
+   File: T_068__24_beta.xml
+13. thaz ír ni+ sít fortuomte
+   File: T_071__17_beta.xml
+14. sósó ír in tuome tuoment
+   File: T_071__18_beta.xml
+15. giuuelih boum thiethar ni tuot / guotan uuahsmon / ist aba furhóuuan Inti in fuir gisentit
+   File: T_074__15-17_beta.xml
+16. In thritten tage brútloufti gitano / In thero st&i thiu hiéz canan galilee
+   File: T_081__13-14_beta.xml
+17. inti hér tuot íz
+   File: T_083__25_beta.xml
+18. bithiu sint sie íuuare tuomon
+   File: T_098__12_beta.xml
+19. oba in sodomu uuarin gitanu / megin
+   File: T_102__23-24_beta.xml
+20. so uuelihhu sie tatun
+   File: T_102__31_beta.xml
+21. uúaz sie tatin / themo heilante
+   File: T_107__02-03_beta.xml
+22. thaz sie inan ougazorohtan ni+ tatin
+   File: T_107__06_beta.xml
+23. truhtin heilan / tuo mih
+   File: T_120__06-07_beta.xml
+24. thar sie azun / thaz brót thanca tuonte truhtine
+   File: T_121__03-04_beta.xml
+25. nibi daz her gisihit den fater / tuontan
+   File: T_136__29-30_gamma.xml
+26. oba ir riuua ni tuot
+   File: T_163__07_gamma.xml
+27. thaz her sliumo tuot Iro giriht
+   File: T_201__19_alpha-bar.xml
+28. managu haben ih . / fon Iú zisprehhanne Intj zituomenne
+   File: T_216__20-21_epsilon.xml
+29. Inti fon mir selbemo . niouuiht tuon
+   File: T_216__29_epsilon.xml
+30. uuen tuos thu thih selbon
+   File: T_219__25_epsilon.xml
+
+Total: 30 contexts
+
+Cluster 0
+---------
+1. unzin ih mist zuo gituon
+   File: T_163__26_gamma.xml
+2. Inti só uuaz / thu thînes zuo gituos
+   File: T_211__02-03_alpha-bar.xml
+
+Total: 2 contexts
+
+Cluster 1
+---------
+1. n+ ist furtuomit
+   File: T_198__01a_alpha-bar.xml
+2. ther ist giu furtuomit
+   File: T_198__03_alpha-bar.xml
+3. mîn tuom / ist thanne uuâr
+   File: T_214__22-23_alpha-bar.xml
+
+Total: 3 contexts
+
+Cluster 2
+---------
+1. bithiu uuanta her sinaz folc heilaz tuot / fon Iro sunton
+   File: T_034__24-25_alpha.xml
+2. íh arrofozu giborganu / fon mittiligartes gitati
+   File: T_110__04-05_beta.xml
+
+Total: 2 contexts
+
+Cluster 3
+---------
+1. Inti ih tuon íuuvih uuesan / manno fiscara
+   File: T_054__20-21_beta.xml
+2. uuemo tuon ih gilihhaz / thiz cunni
+   File: T_101__25-26_beta.xml
+3. In uuelihhero giuuelti tuos thû thisu
+   File: T_201__29_alpha-bar.xml
+4. In uuelihhero / giuuelti ih thisu tuon
+   File: T_202__01-02_alpha-bar.xml
+5. In uuelihhero giuuelti / ih thisu tuon
+   File: T_202__13-14_alpha-bar.xml
+6. oba ih tuomu
+   File: T_214__22_alpha-bar.xml
+
+Total: 6 contexts
+
+Cluster 4
+---------
+1. uuas sculun uuir tuon
+   File: T_046__19a_alpha.xml
+2. uuvo managu gihortun uuir gitanu / in capharnaum
+   File: T_114__15-16_beta.xml
+
+Total: 2 contexts
+
+Cluster 5
+---------
+1. thaz giscrib iz êristen uuard gitan / In syriu fon demo grauen cyrine
+   File: T_035__10-11_alpha.xml
+2. Inti uuort uuard fleisc gitan
+   File: T_045__05_alpha.xml
+3. uuard tho gitan / mihhil stilnessi
+   File: T_086__24-25_beta.xml
+
+Total: 3 contexts
+
+Cluster 6
+---------
+1. Inti uueralt uuard thuruh Inan gitan
+   File: T_044__25_alpha.xml
+2. thiu tuot ir ìn
+   File: T_073__18_beta.xml
+3. daz ih thiu thuruh tuo
+   File: T_139__03_gamma.xml
+
+Total: 3 contexts
+
+Cluster 7
+---------
+1. thanne thú tuos elimosinam
+   File: T_066__29_beta.xml
+2. ubil boum / tuot uilan uuahsmon
+   File: T_074__03-04_beta.xml
+3. oba her thanne uuahsmon tuo
+   File: T_163__27_gamma.xml
+4. thaz her uueralt tuome
+   File: T_197__31_alpha-bar.xml
+5. uuaz tuot her thanne then uuînzurilon
+   File: T_203__32_alpha-bar.xml
+6. Inti uuirdit gigeban thiotu / tuonteru sinan uuahsmon
+   File: T_204__13-14_alpha-bar.xml
+7. thanne tuot Ir uuerc abrahames
+   File: T_218__02_epsilon.xml
+
+Total: 7 contexts
+
+Cluster 8
+---------
+1. eno ni+ tuont thaz thie firnfollun mán
+   File: T_066__01_beta.xml
+2. eno ni+ tuont thaz heidane man
+   File: T_066__12_beta.xml
+3. thie sunta tuot
+   File: T_217__17_epsilon.xml
+
+Total: 3 contexts
+
+Cluster 9
+---------
+1. tuot riuuva inti giloub& / themo euangelio
+   File: T_054__10_beta.xml
+2. ther ist ther suohhit Inti tuomit
+   File: T_219__12_epsilon.xml
+
+Total: 2 contexts
+
+Cluster 10
+----------
+1. thaz sie tatin after / giuuonu euuu furi Inan
+   File: T_038__01-02_alpha.xml
+2. sun ziu tati thu uns so
+   File: T_043__01_alpha.xml
+3. só uuerdet ir gituomte
+   File: T_071__19_beta.xml
+4. thaz íh íu thaz tuon mugi
+   File: T_097__13_beta.xml
+5. ziu tuot ir thaz
+   File: T_105__20_beta.xml
+6. nalles fon themo einen figboume / tuot+ Ir
+   File: T_200__14-15_alpha-bar.xml
+7. thaz tuot ir
+   File: T_217__28_epsilon.xml
+8. Inti lusta Iúuares fater uuoll& Ir tuon
+   File: T_218__20_epsilon.xml
+
+Total: 8 contexts
+
+Cluster 11
+----------
+1. thiu in íu gitanu sint
+   File: T_102__14_beta.xml
+2. uuanta siu fon gote sint gitanu
+   File: T_198__17_alpha-bar.xml
+
+Total: 2 contexts
+
+Cluster 12
+----------
+1. thaz íu man tuon
+   File: T_065__16a_beta.xml
+2. clophot Inti íu intuot man
+   File: T_073__01_beta.xml
+3. thaz íu man tuon
+   File: T_073__17a_beta.xml
+
+Total: 3 contexts
+
+Cluster 13
+----------
+1. Inti oba ír then uuola tuot
+   File: T_066__02_beta.xml
+2. thie íu uuola tuont
+   File: T_066__03_beta.xml
+3. Inti tuot ín uuola
+   File: T_066__14_beta.xml
+
+Total: 3 contexts
+
+Cluster 14
+----------
+1. thiethar thisu minu uuort gihórit / Inti sie ni+ tuot
+   File: T_075__12-13_beta.xml
+2. uuanta sie riuua tatun
+   File: T_093__05_beta.xml
+3. bithiu uuanta sie ni+ tatun / riuua
+   File: T_102__09-10_beta.xml
+
+Total: 3 contexts
+
+Cluster 15
+----------
+1. tuot riuua
+   File: T_044__01_alpha.xml
+2. thaz sie riuua / tatin
+   File: T_081__09-10_beta.xml
+
+Total: 2 contexts
+

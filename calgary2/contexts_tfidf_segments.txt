@@ -1,0 +1,797 @@
+Old English dōn contexts - TFIDF (segment contexts)
+====================================================
+
+Corpus: /Users/nora/src/Starostin/calgary
+Total occurrences (segment-hits): 256
+min_df: 1
+HDBSCAN min_cluster_size: 5
+HDBSCAN min_samples: 1
+Clusters: 2
+Noise: 58 (0.227)
+
+NOTE: Corpus files contain Old English only; translations are not present.
+Translation field contains a Russian gloss of the verb form only.
+
+Noise
+-----
+1. [deþ] wynsum weorþeð ; deþ he wyrplas on ,
+   Source: a mothers fears.txt#seg88
+   Translation: делает (3sg наст.)
+2. [deð] þisne middangeard . swa deð monnes saul ,
+   Source: allMeters.txt#seg748
+   Translation: делает (3sg наст.)
+3. [deð] ær domes dæge ; deð siððan ymbe
+   Source: allMeters.txt#seg1359
+   Translation: делает (3sg наст.)
+4. [doð] hyrað ðinre hæse , doð on heofonum swa some
+   Source: allMeters.txt#seg1497
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+5. [gedon] her ys seo bot , hu ðu meaht þine æceras betan gif hi nellaþ wel wexan oþþe þær hwilc ungedefe þing on gedon bið on dry oððe on lyblace .
+   Source: allMetrical.txt#seg2
+   Translation: сделано/сделанный (прич. прош.)
+6. [dydon] inuenta est . iudeas crist ahengon , dydon dæda þa
+   Source: allMetrical.txt#seg252
+   Translation: сделали/делали (прош. мн.)
+7. [do] do him þis to læcedome : eoforþrote , cassuc , fone nioþo-
+   Source: allMetrical.txt#seg278
+   Translation: делать (форма do: наст. 1sg/пов.)
+8. [do] ealaþ , do hæligwæter to , sing þis gealdor ofer þriwa :
+   Source: allMetrical.txt#seg282
+   Translation: делать (форма do: наст. 1sg/пов.)
+9. [don] wommum wyrhtum woldest us don ,
+   Source: allParis.txt#seg143
+   Translation: делать (инф.)
+10. [deð] he his englas deð æðele gastas
+   Source: allParis.txt#seg196
+   Translation: делает (3sg наст.)
+11. [gedon] ure feond gedon fracuþe to nawihte .
+   Source: allParis.txt#seg730
+   Translation: сделано/сделанный (прич. прош.)
+12. [dyde] he gemynd dyde mærra wundra ;
+   Source: allParis.txt#seg840
+   Translation: сделал/делал (прош. ед.)
+13. [dydest] on ðinre soðfæstnesse dydest samed eadmedne .
+   Source: allParis.txt#seg1361
+   Translation: сделал/делал (2sg прош.)
+14. [dyde] he wundur dyde weorþlic ana .
+   Source: allParis.txt#seg2099
+   Translation: сделал/делал (прош. ед.)
+15. [dyde] ne dyde he ahwær swa eldran cynne ,
+   Source: allParis.txt#seg2689
+   Translation: сделал/делал (прош. ед.)
+16. [do] deor and neat , do þæt sniome ;
+   Source: allParis.txt#seg2715
+   Translation: делать (форма do: наст. 1sg/пов.)
+17. [don] heora æðelingas don on isene bendas ,
+   Source: allParis.txt#seg2757
+   Translation: делать (инф.)
+18. [doð] doð þæt ealne dæg fram ærmergene .
+   Source: allParis.txt#seg2911
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+19. [dydest] laþum wiðlæddest , dydest lof stunde ,
+   Source: allParis.txt#seg2944
+   Translation: сделал/делал (2sg прош.)
+20. [deð] seo hi deafe deð , dytteð hyre earan ,
+   Source: allParis.txt#seg3003
+   Translation: делает (3sg наст.)
+21. [do] ne do hy to deadan , þy læs hi dollice
+   Source: allParis.txt#seg3064
+   Translation: делать (форма do: наст. 1sg/пов.)
+22. [gedon] ure fynd gedon fracoþe to nahte .
+   Source: allParis.txt#seg3128
+   Translation: сделано/сделанный (прич. прош.)
+23. [dyde] hu mycel he dyde minre sawle .
+   Source: allParis.txt#seg3360
+   Translation: сделал/делал (прош. ед.)
+24. [dyde] ne his milde mod me dyde fremde .
+   Source: allParis.txt#seg3369
+   Translation: сделал/делал (прош. ед.)
+25. [don] nyle he þa dærstan him don unbryce ;
+   Source: allParis.txt#seg3930
+   Translation: делать (инф.)
+26. [do] do þines scealces sawle bliðe ,
+   Source: allParis.txt#seg4508
+   Translation: делать (форма do: наст. 1sg/пов.)
+27. [dyde] dyfde on wætre , dyde eft þonan ,
+   Source: allRiddles.txt#seg289
+   Translation: сделал/делал (прош. ед.)
+28. [doð] nymðe we brucen þæs þa bearn doð .
+   Source: allRiddles.txt#seg725
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+29. [dyde] land ond leode , swa dyde lareow þin .
+   Source: andreas.txt#seg1322
+   Translation: сделал/делал (прош. ед.)
+30. [dyde] billa selest , on bearm dyde ,
+   Source: beowulf.txt#seg1143
+   Translation: сделал/делал (прош. ед.)
+31. [dydon] swa þec hetende hwilum dydon ,
+   Source: beowulf.txt#seg1827
+   Translation: сделали/делали (прош. мн.)
+32. [deð] eaferum læfde , swa deð eadig mon ,
+   Source: beowulf.txt#seg2469
+   Translation: делает (3sg наст.)
+33. [dyde] gylpe wiðgripan , swa ic gio wið grendle dyde .
+   Source: beowulf.txt#seg2520
+   Translation: сделал/делал (прош. ед.)
+34. [doð] synne cwiþað ; ac hy to sið doð
+   Source: christ a b c.txt#seg1568
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+35. [dydon] godes andsaca ; dydon his gingran swa ,
+   Source: christ and satan.txt#seg191
+   Translation: сделали/делали (прош. мн.)
+36. [dydon] up to englum swa oðre dydon ,
+   Source: christ and satan.txt#seg624
+   Translation: сделали/делали (прош. мн.)
+37. [dyde] nabochodonossor him on nyd dyde
+   Source: daniel.txt#seg73
+   Translation: сделал/делал (прош. ед.)
+38. [gedon] no hwæðere þæt daniel gedon mihte
+   Source: daniel.txt#seg169
+   Translation: сделано/сделанный (прич. прош.)
+39. [dyde] efndon unrihtdom , swa hyra aldor dyde ,
+   Source: daniel.txt#seg184
+   Translation: сделал/делал (прош. ед.)
+40. [don] and gesæledne in susl don ,
+   Source: daniel.txt#seg521
+   Translation: делать (инф.)
+41. [don] burgagendra on his bridels don ,
+   Source: elene.txt#seg1175
+   Translation: делать (инф.)
+42. [deð] ealra morðra mæst . swa deð monna gehwilc
+   Source: genesis.txt#seg298
+   Translation: делает (3sg наст.)
+43. [gedon] romigan ures rices . næfð he þeah riht gedon
+   Source: genesis.txt#seg361
+   Translation: сделано/сделанный (прич. прош.)
+44. [dyde] heo dyde hit þeah þurh holdne hyge , nyste þæt þær hearma swa fela ,
+   Source: genesis.txt#seg709
+   Translation: сделал/делал (прош. ед.)
+45. [doð] drihta bearnum , ( doð gieta swa ) .
+   Source: genesis.txt#seg994
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+46. [don] wæstmum gewlo on geweald don ,
+   Source: genesis.txt#seg1790
+   Translation: делать (инф.)
+47. [don] on hwilce healfe þu wille hwyrft don ,
+   Source: genesis.txt#seg1919
+   Translation: делать (инф.)
+48. [doð] wunne æfter worulde , swa doð wræcmæcgas
+   Source: guthlac a b.txt#seg130
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+49. [deð] ædre mid elne onbryrde , swa he deð anra gehwylcne
+   Source: judith.txt#seg96
+   Translation: делает (3sg наст.)
+50. [do] " do a þætte duge , deag þin gewyrhtu ;
+   Source: precepts.txt#seg5
+   Translation: делать (форма do: наст. 1sg/пов.)
+51. [dyde] æfter dogrum dyde , ne læt þu mec næfre deofol seþeah
+   Source: resignation.txt#seg53
+   Translation: сделал/делал (прош. ед.)
+52. [deð] gewesan ymbe hira wisdom ; wyrs deð se ðe liehð
+   Source: solomon and saturn.txt#seg188
+   Translation: делает (3sg наст.)
+53. [do] dryhten æt þam dome . ac hwæt do wyt unc ?
+   Source: soul and body i.txt#seg101
+   Translation: делать (форма do: наст. 1sg/пов.)
+54. [do] dryhten æt dome . ac hwæt do wit unc ,
+   Source: soul and body ii.txt#seg94
+   Translation: делать (форма do: наст. 1sg/пов.)
+55. [dyde] swa dyde æþeric , æþele gefera ,
+   Source: the battle of maldon.txt#seg281
+   Translation: сделал/делал (прош. ед.)
+56. [gedon] ne wearð dreorlicre dæd gedon on þison earde ,
+   Source: the death of alfred.txt#seg12
+   Translation: сделано/сделанный (прич. прош.)
+57. [deð] eadignesse , swa nan oðer na deð
+   Source: the mologium.txt#seg198
+   Translation: делает (3sg наст.)
+58. [dyde] swa se ealda dyde elias iu .
+   Source: the seasons for fasting.txt#seg144
+   Translation: сделал/делал (прош. ед.)
+
+Total: 58 occurrences
+
+Cluster 0
+---------
+1. [do] dæges and nihtes do , swa ic ne sceolde ,
+   Source: a prayer.txt#seg64
+   Translation: делать (форма do: наст. 1sg/пов.)
+2. [dyde] ealra goda þe he ðe ær dyde .
+   Source: allFragments.txt#seg13
+   Translation: сделал/делал (прош. ед.)
+3. [do] do , drihten , cyng dædum halne ,
+   Source: allFragments.txt#seg49
+   Translation: делать (форма do: наст. 1sg/пов.)
+4. [do] do me wegas þine wise , drihten ,
+   Source: allFragments.txt#seg54
+   Translation: делать (форма do: наст. 1sg/пов.)
+5. [dydest] þe ðu , drihten , dydest syððan dagas wæron ,
+   Source: allFragments.txt#seg61
+   Translation: сделал/делал (2sg прош.)
+6. [dyde] gramra to georne , þe ic geong dyde
+   Source: allFragments.txt#seg65
+   Translation: сделал/делал (прош. ед.)
+7. [do] hal do þin folc , halig drihten ,
+   Source: allFragments.txt#seg71
+   Translation: делать (форма do: наст. 1sg/пов.)
+8. [do] aris , drihten , nu and us ricene do
+   Source: allFragments.txt#seg99
+   Translation: делать (форма do: наст. 1sg/пов.)
+9. [dydest] mildsa me , mihtig drihten , swa ðu manegum dydest ,
+   Source: allFragments.txt#seg120
+   Translation: сделал/делал (2sg прош.)
+10. [gedon] gebæt mid his bridle , hafað butu gedon ,
+   Source: allMeters.txt#seg180
+   Translation: сделано/сделанный (прич. прош.)
+11. [doð] swa doð wudufuglas ; þeah hi wel sien ,
+   Source: allMeters.txt#seg328
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+12. [deð] swa deð eac sio sunne , þonne hio on sige weorðeð ,
+   Source: allMeters.txt#seg349
+   Translation: делает (3sg наст.)
+13. [deð] þe ne hwearfige , swa swa hweol deð ,
+   Source: allMeters.txt#seg367
+   Translation: делает (3sg наст.)
+14. [don] hio sceal eft don þæt hio ær dyde ,
+   Source: allMeters.txt#seg372
+   Translation: делать (инф.)
+15. [dyde] hio sceal eft don þæt hio ær dyde ,
+   Source: allMeters.txt#seg372
+   Translation: сделал/делал (прош. ед.)
+16. [do] ðeah hine se dysega do to cyninge ,
+   Source: allMeters.txt#seg399
+   Translation: делать (форма do: наст. 1sg/пов.)
+17. [doð] weoruldwelena ; hi þæt wel doð ,
+   Source: allMeters.txt#seg496
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+18. [don] hiora dysig tælan swa hit me don lysteð ,
+   Source: allMeters.txt#seg509
+   Translation: делать (инф.)
+19. [dyde] sigan þe swiðor þe hio symle dyde .
+   Source: allMeters.txt#seg703
+   Translation: сделал/делал (прош. ед.)
+20. [dyde] dogora gehwilce ; dyde lange swa .
+   Source: allMeters.txt#seg713
+   Translation: сделал/делал (прош. ед.)
+21. [deð] hire utan ymb , swa swa eal deð
+   Source: allMeters.txt#seg745
+   Translation: делает (3sg наст.)
+22. [gedon] ablendað on breostum , þonne hi hi beorhtran gedon .
+   Source: allMeters.txt#seg847
+   Translation: сделано/сделанный (прич. прош.)
+23. [gedon] mid drycræftum , þeah hio gedon meahte
+   Source: allMeters.txt#seg1183
+   Translation: сделано/сделанный (прич. прош.)
+24. [do] swa eac sume wenað þæt sio sunne do ,
+   Source: allMeters.txt#seg1270
+   Translation: делать (форма do: наст. 1sg/пов.)
+25. [doð] beforan ðære sunnan , swa hi symle doð
+   Source: allMeters.txt#seg1282
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+26. [dydon] sibbe singale , dydon swa lange .
+   Source: allMeters.txt#seg1324
+   Translation: сделали/делали (прош. мн.)
+27. [deð] þæt se anwald ne deð awiht godes
+   Source: allMeters.txt#seg1770
+   Translation: делает (3sg наст.)
+28. [do] nim þonne ele and hunig and beorman , and ælces feos meolc þe on þæm lande sy , and ælces treowcynnes dæl þe on þæm lande sy gewexen , butan heardan beaman , and ælcre namcuþre wyrte dæl , butan glappan anon , and do þonne haligwæter ðær on , and drype þonne þriwa on þone staðol þara turfa , and cweþe ðonne ðas word : crescite , wexe , et multiplicamini , and gemænigfealda , et replete , and gefylle , terre , þas eorðan . in nomine patris et filii et spiritus sancti sit benedicti . and pater noster swa oft swa þæt oðer .
+   Source: allMetrical.txt#seg4
+   Translation: делать (форма do: наст. 1sg/пов.)
+29. [gedon] ðonne þæt eall sie gedon , þonne nime man uncuþ sæd æt ælmesmannum and selle him twa swylc , swylce man æt him nime , and gegaderie ealle his
+   Source: allMetrical.txt#seg21
+   Translation: сделано/сделанный (прич. прош.)
+30. [do] æggemongc , þonne he þa sealfe on do , ge ær ge æfter . sing
+   Source: allMetrical.txt#seg193
+   Translation: делать (форма do: наст. 1sg/пов.)
+31. [do] þa sealfe on do .
+   Source: allMetrical.txt#seg197
+   Translation: делать (форма do: наст. 1sg/пов.)
+32. [do] wið dweorh man sceal niman vii lytle oflætan , swylce man mid ofrað , and writan þas naman on ælcre oflætan : maximianus , malchus , iohannes , martimianus , dionisius , constantinus , serafion , þænne eft þæt galdor , þæt her æfter cweð , man sceal singan , ærest on þæt wynstre eare , þænne on þæt swiðre eare , þænne bufan þæs mannes moldan . and ga þænne an mædenman to and ho hit on his sweoran , and do man swa þry dagas ; him bið sona sel .
+   Source: allMetrical.txt#seg199
+   Translation: делать (форма do: наст. 1sg/пов.)
+33. [deð] and ðu hi onwendest , swa man wrigels deð ,
+   Source: allParis.txt#seg109
+   Translation: делает (3sg наст.)
+34. [dyde] ealra goda , þe he þe ær dyde .
+   Source: allParis.txt#seg122
+   Translation: сделал/делал (прош. ед.)
+35. [dyde] he his wegas dyde wise and cuðe
+   Source: allParis.txt#seg134
+   Translation: сделал/делал (прош. ед.)
+36. [deð] deð hi for his egsan ealle beofian ;
+   Source: allParis.txt#seg281
+   Translation: делает (3sg наст.)
+37. [do] do us hale nu , halig drihten ,
+   Source: allParis.txt#seg548
+   Translation: делать (форма do: наст. 1sg/пов.)
+38. [do] do me þin swyðre hand swylce halne
+   Source: allParis.txt#seg705
+   Translation: делать (форма do: наст. 1sg/пов.)
+39. [do] adrife fram dome ; ne do þu æfre swa ,
+   Source: allParis.txt#seg723
+   Translation: делать (форма do: наст. 1sg/пов.)
+40. [do] and þu , min drihten god , do me þine nu
+   Source: allParis.txt#seg792
+   Translation: делать (форма do: наст. 1sg/пов.)
+41. [dydest] þu me wel dydest on woruldlife .
+   Source: allParis.txt#seg1020
+   Translation: сделал/делал (2sg прош.)
+42. [dyde] for eallum þam godum þe he me ærur dyde ?
+   Source: allParis.txt#seg1034
+   Translation: сделал/делал (прош. ед.)
+43. [dyde] dyde gedefe mægen dryhtnes swyðre ,
+   Source: allParis.txt#seg1097
+   Translation: сделал/делал (прош. ед.)
+44. [do] eala þu dryhten god , do me halne ;
+   Source: allParis.txt#seg1119
+   Translation: делать (форма do: наст. 1sg/пов.)
+45. [do] eala þu dryhten min , do us gesunde .
+   Source: allParis.txt#seg1120
+   Translation: делать (форма do: наст. 1sg/пов.)
+46. [do] ne do þu me dyrne þine þa deoran bebodu .
+   Source: allParis.txt#seg1189
+   Translation: делать (форма do: наст. 1sg/пов.)
+47. [do] do me æfter þinum wordum wel gecwician .
+   Source: allParis.txt#seg1209
+   Translation: делать (форма do: наст. 1sg/пов.)
+48. [dydest] þu ymb þinne esne æghwær dydest
+   Source: allParis.txt#seg1326
+   Translation: сделал/делал (2sg прош.)
+49. [do] ic eom þin hold scealc ; do ðu halne me ,
+   Source: allParis.txt#seg1421
+   Translation: делать (форма do: наст. 1sg/пов.)
+50. [dyde] lustum lufode ; ic þæt lange dyde ,
+   Source: allParis.txt#seg1430
+   Translation: сделал/делал (прош. ед.)
+51. [do] do þinum agenum esne swylce
+   Source: allParis.txt#seg1505
+   Translation: делать (форма do: наст. 1sg/пов.)
+52. [do] þis is wynne tid , þæt man eac wel do ,
+   Source: allParis.txt#seg1510
+   Translation: делать (форма do: наст. 1sg/пов.)
+53. [dydest] mære gemiltsa , swa ðu manegum dydest ,
+   Source: allParis.txt#seg1527
+   Translation: сделал/делал (2sg прош.)
+54. [do] do þine ansyne esne þinum
+   Source: allParis.txt#seg1534
+   Translation: делать (форма do: наст. 1sg/пов.)
+55. [do] ic cleopode to ðe ; do me cuðlice
+   Source: allParis.txt#seg1573
+   Translation: делать (форма do: наст. 1sg/пов.)
+56. [do] and æfter þinum domum do me halne .
+   Source: allParis.txt#seg1586
+   Translation: делать (форма do: наст. 1sg/пов.)
+57. [do] for þinre spræce , do me spedlice
+   Source: allParis.txt#seg1599
+   Translation: делать (форма do: наст. 1sg/пов.)
+58. [do] æfter þinum domum do me cwicne .
+   Source: allParis.txt#seg1604
+   Translation: делать (форма do: наст. 1sg/пов.)
+59. [do] æfter þinre spræce do spedlice ,
+   Source: allParis.txt#seg1653
+   Translation: делать (форма do: наст. 1sg/пов.)
+60. [gedon] and þæt domlice gedon weorðe ;
+   Source: allParis.txt#seg1662
+   Translation: сделано/сделанный (прич. прош.)
+61. [do] drihten ælmihtig ; do me symble ,
+   Source: allParis.txt#seg1665
+   Translation: делать (форма do: наст. 1sg/пов.)
+62. [dyde] drihten si gebletsad , þe þæt ne dyde æfre ,
+   Source: allParis.txt#seg1778
+   Translation: сделал/делал (прош. ед.)
+63. [do] do þu , drihten , wel þam þe gedefe her
+   Source: allParis.txt#seg1803
+   Translation: делать (форма do: наст. 1sg/пов.)
+64. [gedon] þonne drihten wyle gedon æfter ,
+   Source: allParis.txt#seg1810
+   Translation: сделано/сделанный (прич. прош.)
+65. [do] drihten , drihten , do þu nu ða ,
+   Source: allParis.txt#seg1904
+   Translation: делать (форма do: наст. 1sg/пов.)
+66. [do] deorum dauide , þu ne do æfre ,
+   Source: allParis.txt#seg1964
+   Translation: делать (форма do: наст. 1sg/пов.)
+67. [dyde] gehet dauide , swa he him dyde syþþan ,
+   Source: allParis.txt#seg1970
+   Translation: сделал/делал (прош. ед.)
+68. [gedon] þa nu oft cweðað : " wutun hi idle gedon ,
+   Source: allParis.txt#seg2159
+   Translation: сделано/сделанный (прич. прош.)
+69. [doð] neode serwað , swa oft nædran doð ,
+   Source: allParis.txt#seg2290
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+70. [deð] ic þæt gearuwe ongeat , þæt gode deð
+   Source: allParis.txt#seg2324
+   Translation: делает (3sg наст.)
+71. [do] do me wegas wise , þæt ic wite gearwe
+   Source: allParis.txt#seg2434
+   Translation: делать (форма do: наст. 1sg/пов.)
+72. [dydest] forþon þu min god eart , þu me god dydest .
+   Source: allParis.txt#seg2441
+   Translation: сделал/делал (2sg прош.)
+73. [do] drihten usser , do me halne ,
+   Source: allParis.txt#seg2445
+   Translation: делать (форма do: наст. 1sg/пов.)
+74. [deð] deð gedefe þe her deorce ær
+   Source: allParis.txt#seg2609
+   Translation: делает (3sg наст.)
+75. [dyde] and to wealdendgode , ðe me wel dyde .
+   Source: allParis.txt#seg2956
+   Translation: сделал/делал (прош. ед.)
+76. [dyde] and ðu sylfa gesyhst , þæt ic swa dyde ;
+   Source: allParis.txt#seg3042
+   Translation: сделал/делал (прош. ед.)
+77. [dest] and ðu hi , drihten , dest deope to bysmre ;
+   Source: allParis.txt#seg3056
+   Translation: делаешь (2sg наст.)
+78. [do] do me þin seo swyðre hand symle halne ;
+   Source: allParis.txt#seg3104
+   Translation: делать (форма do: наст. 1sg/пов.)
+79. [doð] doð eowre heortan hige hale and clæne ,
+   Source: allParis.txt#seg3176
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+80. [doð] wyrceað on wægum and woh doð ,
+   Source: allParis.txt#seg3179
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+81. [deð] soðe dome , swa man seolfor deð ,
+   Source: allParis.txt#seg3341
+   Translation: делает (3sg наст.)
+82. [dyde] drihten si gebletsad , þe he ne dyde æfre
+   Source: allParis.txt#seg3367
+   Translation: сделал/делал (прош. ед.)
+83. [doð] doð siðfæt þæs seftne and rihtne ,
+   Source: allParis.txt#seg3402
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+84. [deð] se þe eardian deð anes modes
+   Source: allParis.txt#seg3410
+   Translation: делает (3sg наст.)
+85. [do] do me halne , god , forþon hreoh wæter
+   Source: allParis.txt#seg3489
+   Translation: делать (форма do: наст. 1sg/пов.)
+86. [dydon] for unrihte þe hi ær dydon ,
+   Source: allParis.txt#seg3805
+   Translation: сделали/делали (прош. мн.)
+87. [do] þæt he on eorðan do ealle hale
+   Source: allParis.txt#seg3960
+   Translation: делать (форма do: наст. 1sg/пов.)
+88. [gedon] hiora fyrendædum , nolde hi to flymum gedon .
+   Source: allParis.txt#seg4138
+   Translation: сделано/сделанный (прич. прош.)
+89. [do] and us hale do her on eorðan .
+   Source: allParis.txt#seg4289
+   Translation: делать (форма do: наст. 1sg/пов.)
+90. [do] do him nu swa ðu dydest dagum madiane
+   Source: allParis.txt#seg4401
+   Translation: делать (форма do: наст. 1sg/пов.)
+91. [dydest] do him nu swa ðu dydest dagum madiane
+   Source: allParis.txt#seg4401
+   Translation: сделал/делал (2sg прош.)
+92. [dydest] sete heora ealdormenn swa ðu oreb dydest ,
+   Source: allParis.txt#seg4406
+   Translation: сделал/делал (2sg прош.)
+93. [doð] ne doð him for awiht egsan drihtnes .
+   Source: allParis.txt#seg4541
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+94. [do] do þinre þeowan sunu , drihten , halne .
+   Source: allParis.txt#seg4547
+   Translation: делать (форма do: наст. 1sg/пов.)
+95. [do] do gedefe mid me , drihten , tacen ,
+   Source: allParis.txt#seg4548
+   Translation: делать (форма do: наст. 1sg/пов.)
+96. [dydest] feor ðu me dydest freondas cuþe ;
+   Source: allParis.txt#seg4592
+   Translation: сделал/делал (2sg прош.)
+97. [doð] ne heora winterrim for wiht ne doð .
+   Source: allParis.txt#seg4780
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+98. [do] do us þa þine swiðran hand , drihten , cuðe ,
+   Source: allParis.txt#seg4808
+   Translation: делать (форма do: наст. 1sg/пов.)
+99. [dyde] drihten æfre , dyde swa he wolde ,
+   Source: allParis.txt#seg4947
+   Translation: сделал/делал (прош. ед.)
+100. [don] and þæt of hiora eðele don ealle þeode ,
+   Source: allParis.txt#seg5054
+   Translation: делать (инф.)
+101. [dyde] guþe fremme , swa ic gien dyde
+   Source: allRiddles.txt#seg197
+   Translation: сделал/делал (прош. ед.)
+102. [doþ] ond to dugþum doþ þæt se dumba her ,
+   Source: allRiddles.txt#seg811
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+103. [don] ond dryhtnes dolg , don swa þæs beages
+   Source: allRiddles.txt#seg946
+   Translation: делать (инф.)
+104. [deð] . . . . . . snytt . . . hio symle deð
+   Source: allRiddles.txt#seg1047
+   Translation: делает (3sg наст.)
+105. [dyde] suna ond dohtra , þy heo swa dyde .
+   Source: allRiddles.txt#seg1371
+   Translation: сделал/делал (прош. ед.)
+106. [gedon] tohwan þe þin drihten gedon wille ,
+   Source: an exhortation to christian living.txt#seg62
+   Translation: сделано/сделанный (прич. прош.)
+107. [dydest] eardes on eþle , swa þu ær dydest ,
+   Source: an exhortation to christian living.txt#seg64
+   Translation: сделал/делал (2sg прош.)
+108. [gedon] hwæt ðu us to duguðum gedon wille . "
+   Source: andreas.txt#seg343
+   Translation: сделано/сделанный (прич. прош.)
+109. [gedon] þæt hit drycræftum gedon wære ,
+   Source: andreas.txt#seg766
+   Translation: сделано/сделанный (прич. прош.)
+110. [dydest] swa ðu in achaia ondsæc dydest ,
+   Source: andreas.txt#seg928
+   Translation: сделал/делал (2sg прош.)
+111. [gedon] þurh daroða gedrep gedon motan ,
+   Source: andreas.txt#seg1445
+   Translation: сделано/сделанный (прич. прош.)
+112. [dydon] worhton in worulde , eac þon wom dydon
+   Source: azarias.txt#seg18
+   Translation: сделали/делали (прош. мн.)
+113. [dydon] þeodgestreonum , þon þa dydon
+   Source: beowulf.txt#seg44
+   Translation: сделали/делали (прош. мн.)
+114. [dyde] etan unforhte , swa he oft dyde ,
+   Source: beowulf.txt#seg443
+   Translation: сделал/делал (прош. ед.)
+115. [dyde] ða he him of dyde isernbyrnan ,
+   Source: beowulf.txt#seg670
+   Translation: сделал/делал (прош. ед.)
+116. [don] banfatu bærnan ond on bæl don
+   Source: beowulf.txt#seg1115
+   Translation: делать (инф.)
+117. [don] mildum wordum , swa sceal man don .
+   Source: beowulf.txt#seg1171
+   Translation: делать (инф.)
+118. [doð] druncne dryhtguman doð swa ic bidde ."
+   Source: beowulf.txt#seg1230
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+119. [dydon] unrim eorla , swa hie oft ær dydon .
+   Source: beowulf.txt#seg1237
+   Translation: сделали/делали (прош. мн.)
+120. [dyde] ealdgestreonum , swa ic ær dyde ,
+   Source: beowulf.txt#seg1380
+   Translation: сделал/делал (прош. ед.)
+121. [don] mundgripe mægenes . swa sceal man don ,
+   Source: beowulf.txt#seg1533
+   Translation: делать (инф.)
+122. [dydest] aldorbealu eorlum , swa þu ær dydest ."
+   Source: beowulf.txt#seg1675
+   Translation: сделал/делал (2sg прош.)
+123. [dyde] eftsið eorla , swa he ær dyde ;
+   Source: beowulf.txt#seg1890
+   Translation: сделал/делал (прош. ед.)
+124. [gedon] dior dædfruma , gedon wolde
+   Source: beowulf.txt#seg2089
+   Translation: сделано/сделанный (прич. прош.)
+125. [don] meara ond maðma . swa sceal mæg don ,
+   Source: beowulf.txt#seg2165
+   Translation: делать (инф.)
+126. [gedon] drihten wedera gedon wolde ;
+   Source: beowulf.txt#seg2185
+   Translation: сделано/сделанный (прич. прош.)
+127. [dyde] ne him þæs wyrmes wig for wiht dyde ,
+   Source: beowulf.txt#seg2347
+   Translation: сделал/делал (прош. ед.)
+128. [dyde] dyde him of healse hring gyldenne
+   Source: beowulf.txt#seg2808
+   Translation: сделал/делал (прош. ед.)
+129. [dydon] þeodnas mære , þa ðæt þær dydon ,
+   Source: beowulf.txt#seg3069
+   Translation: сделали/делали (прош. мн.)
+130. [dydon] hi on beorg dydon beg ond siglu ,
+   Source: beowulf.txt#seg3162
+   Translation: сделали/делали (прош. мн.)
+131. [dyde] earme from egsan , swa he oft dyde .
+   Source: christ a b c.txt#seg18
+   Translation: сделал/делал (прош. ед.)
+132. [dydon] in þa æþelan tid , swa hie eft dydon
+   Source: christ a b c.txt#seg456
+   Translation: сделали/делали (прош. мн.)
+133. [dyde] mid þy weorðe , þe no wom dyde
+   Source: christ a b c.txt#seg1098
+   Translation: сделал/делал (прош. ед.)
+134. [dydon] mid modes myne . eall ge þæt me dydon ,
+   Source: christ a b c.txt#seg1359
+   Translation: сделали/делали (прош. мн.)
+135. [dyde] æðel to æhte , swa he ær dyde ,
+   Source: christ and satan.txt#seg117
+   Translation: сделал/делал (прош. ед.)
+136. [dyde] eðel to æhte , swa he ær dyde . "
+   Source: christ and satan.txt#seg279
+   Translation: сделал/делал (прош. ед.)
+137. [dyde] ecne and trumne , swa he ær dyde .
+   Source: christ and satan.txt#seg524
+   Translation: сделал/делал (прош. ед.)
+138. [don] israhela cyn unriht don ,
+   Source: daniel.txt#seg24
+   Translation: делать (инф.)
+139. [dyde] yfel endelean ) , unriht dyde .
+   Source: daniel.txt#seg188
+   Translation: сделал/делал (прош. ед.)
+140. [dydon] drihten on dreame , dydon swa hie cuðon
+   Source: daniel.txt#seg258
+   Translation: сделали/делали (прош. мн.)
+141. [dyde] worhton on worulde , eac ðon wom dyde
+   Source: daniel.txt#seg297
+   Translation: сделал/делал (прош. ед.)
+142. [dyde] swutol tacen godes . no þy sel dyde ,
+   Source: daniel.txt#seg489
+   Translation: сделал/делал (прош. ед.)
+143. [deð] metod ælmihtig , swa he manegum deð
+   Source: daniel.txt#seg494
+   Translation: делает (3sg наст.)
+144. [do] ymb swa dygle wyrd . do swa þe þynce ,
+   Source: elene.txt#seg542
+   Translation: делать (форма do: наст. 1sg/пов.)
+145. [gedon] ond deorlicost gedon meahte ,
+   Source: elene.txt#seg1159
+   Translation: сделано/сделанный (прич. прош.)
+146. [dydon] drugon and dydon drihtnes willan ,
+   Source: genesis.txt#seg143
+   Translation: сделали/делали (прош. мн.)
+147. [don] don ne dreogan , ac him drihtnes wæs
+   Source: genesis.txt#seg191
+   Translation: делать (инф.)
+148. [gedon] þæt heofonrice , nu we hit habban ne moton , gedon þæt hie his hyldo forlæten ,
+   Source: genesis.txt#seg405
+   Translation: сделано/сделанный (прич. прош.)
+149. [gedon] bliðe on breostum , forþon her synt butu gedon :
+   Source: genesis.txt#seg752
+   Translation: сделано/сделанный (прич. прош.)
+150. [deð] on þinum hyge hreowan þonne hit me æt heortan deð . "
+   Source: genesis.txt#seg827
+   Translation: делает (3sg наст.)
+151. [dyde] bilwit fæder , hwæt his bearn dyde ;
+   Source: genesis.txt#seg857
+   Translation: сделал/делал (прош. ед.)
+152. [doþ] middangeardes , swa her men doþ ,
+   Source: genesis.txt#seg1207
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+153. [dyde] cyninge engla . huru cuð dyde
+   Source: genesis.txt#seg1504
+   Translation: сделал/делал (прош. ед.)
+154. [dyde] an ælmihtig , swa he ær dyde ,
+   Source: genesis.txt#seg1841
+   Translation: сделал/делал (прош. ед.)
+155. [dydon] cyninges þegnum . hie þæt cuð dydon
+   Source: genesis.txt#seg1852
+   Translation: сделали/делали (прош. мн.)
+156. [dydon] þe he ne cuðe hwæt þa cynn dydon .
+   Source: genesis.txt#seg1945
+   Translation: сделали/делали (прош. мн.)
+157. [do] drihten min , do swa ic þe bidde !
+   Source: genesis.txt#seg2228
+   Translation: делать (форма do: наст. 1sg/пов.)
+158. [dyde] yfel and ondlean , þæs ðe ær dyde
+   Source: genesis.txt#seg2267
+   Translation: сделал/делал (прош. ед.)
+159. [doð] adrifen from duguðum . doð swa ic hate !
+   Source: genesis.txt#seg2326
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+160. [don] mago ebrea , hwæt þa men don ,
+   Source: genesis.txt#seg2414
+   Translation: делать (инф.)
+161. [doð] dohtor mine . doð , swa ic eow bidde
+   Source: genesis.txt#seg2468
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+162. [dyde] abraham arlice , swa he oft dyde
+   Source: genesis.txt#seg2589
+   Translation: сделал/делал (прош. ед.)
+163. [dydon] hie dydon swa ; druncnum eode
+   Source: genesis.txt#seg2601
+   Translation: сделали/делали (прош. мн.)
+164. [dyde] ece drihten , swa he oft dyde ,
+   Source: genesis.txt#seg2634
+   Translation: сделал/делал (прош. ед.)
+165. [dyde] " ne dyde ic for facne ne for feondscipe
+   Source: genesis.txt#seg2693
+   Translation: сделал/делал (прош. ед.)
+166. [gedon] þara þe ic to duguðum ðe gedon hæbbe ,
+   Source: genesis.txt#seg2822
+   Translation: сделано/сделанный (прич. прош.)
+167. [doð] wegan on wordum ond þa weorc ne doð .
+   Source: guthlac a b.txt#seg62
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+168. [gedon] gedon motun . ic eom dryhtnes þeow ,
+   Source: guthlac a b.txt#seg315
+   Translation: сделано/сделанный (прич. прош.)
+169. [doð] " doð efne swa , gif eow dryhten crist ,
+   Source: guthlac a b.txt#seg593
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+170. [gedon] þæs þe ge him to dare gedon motan ,
+   Source: guthlac a b.txt#seg701
+   Translation: сделано/сделанный (прич. прош.)
+171. [gedon] gedon habbaþ ; ne durran we siþþan
+   Source: juliana.txt#seg331
+   Translation: сделано/сделанный (прич. прош.)
+172. [dydest] edwit for eorlum , þonne þu ær dydest ,
+   Source: juliana.txt#seg543
+   Translation: сделал/делал (2sg прош.)
+173. [dyde] yflum yrmþum , swa heo mec ær dyde . "
+   Source: juliana.txt#seg635
+   Translation: сделал/делал (прош. ед.)
+174. [dyde] fægere ongildan þæt he ær facen dyde
+   Source: maxims ii.txt#seg57
+   Translation: сделал/делал (прош. ед.)
+175. [don] ne habbað wiht for þæt , þeah hi wom don
+   Source: precepts.txt#seg71
+   Translation: делать (инф.)
+176. [deð] hio abiteð iren mid ome , deð usic swa . "
+   Source: solomon and saturn.txt#seg318
+   Translation: делает (3sg наст.)
+177. [don] anne æðeling . ne mæg don unlæde swa . "
+   Source: solomon and saturn.txt#seg431
+   Translation: делать (инф.)
+178. [gedon] þe he him to duguþe gedon hæfde .
+   Source: the battle of maldon.txt#seg198
+   Translation: сделано/сделанный (прич. прош.)
+179. [dyde] biteres onbyrigan , swa he ær on ðam beame dyde .
+   Source: the dream of the rood.txt#seg115
+   Translation: сделал/делал (прош. ед.)
+180. [dydest] and him on dydest oruð and sawul ,
+   Source: the gloria i.txt#seg62
+   Translation: сделал/делал (2sg прош.)
+181. [do] and dædbote do drihtne to willan .
+   Source: the judgment day ii.txt#seg86
+   Translation: делать (форма do: наст. 1sg/пов.)
+182. [dest] hwæt dest þu , la , flæsc ? hwæt dreogest þu nu ?
+   Source: the judgment day ii.txt#seg177
+   Translation: делаешь (2sg наст.)
+183. [didon] didon for ure disige dæges and nihtes ,
+   Source: the lords prayer ii.txt#seg120
+   Translation: сделали/делали (прош. мн.)
+184. [dyde] dyde ic me to gomene , ganetes hleoþor
+   Source: the seafarer.txt#seg21
+   Translation: сделал/делал (прош. ед.)
+185. [gedon] to hwon hine dryhten gedon wille .
+   Source: the seafarer.txt#seg44
+   Translation: сделано/сделанный (прич. прош.)
+186. [deð] bitere onbolgen , and þæs bote ne deð ,
+   Source: the seasons for fasting.txt#seg198
+   Translation: делает (3sg наст.)
+187. [dydon] mecum gemetað , swa ge me dydon .
+   Source: waldere b.txt#seg25
+   Translation: сделали/делали (прош. мн.)
+
+Total: 187 occurrences
+
+Cluster 1
+---------
+1. [deð] ren forswelgan ; swa deð ricra nu
+   Source: allMeters.txt#seg1607
+   Translation: делает (3sg наст.)
+2. [dyde] gode forgylde , swa he nu gyt dyde !"
+   Source: beowulf.txt#seg955
+   Translation: сделал/делал (прош. ед.)
+3. [deð] gumena cynnes , swa he nu git deð .
+   Source: beowulf.txt#seg1057
+   Translation: делает (3sg наст.)
+4. [deð] gear in geardas , swa nu gyt deð ,
+   Source: beowulf.txt#seg1133
+   Translation: делает (3sg наст.)
+5. [dyde] gumena dryhten , ðonne ic gyt dyde ,
+   Source: beowulf.txt#seg1823
+   Translation: сделал/делал (прош. ед.)
+6. [deð] gumena gehwylcum , swa he nu gen deð .
+   Source: beowulf.txt#seg2858
+   Translation: делает (3sg наст.)
+7. [dyde] geornor bigonge þonne he gen dyde ,
+   Source: juliana.txt#seg111
+   Translation: сделал/делал (прош. ед.)
+8. [deð] geomrende gast deð nu gena swa ,
+   Source: solomon and saturn.txt#seg264
+   Translation: делает (3sg наст.)
+9. [doð] lifiendum gode lofsang doð ,
+   Source: soul and body i.txt#seg70
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+10. [doð] gode lifgendum lofsong doð ,
+   Source: soul and body ii.txt#seg65
+   Translation: делают (наст. мн.) / делайте (пов. мн.)
+11. [dyde] costian durre , þonne he crist dyde ,
+   Source: the seasons for fasting.txt#seg170
+   Translation: сделал/делал (прош. ед.)
+
+Total: 11 occurrences
+
